@@ -1,0 +1,156 @@
+{
+    "Current Uses and Processes": {
+        "C1": {
+            "question": "Are you generally familiar with the use of generative AI models/tools to produce source code?",
+            "type": "single-select"
+        },
+        "C2": {
+            "question": "Have you incorporated code generation AI models/tools into your development workflow?",
+            "type": "single-select"
+        },
+        "C3": {
+            "question": "Which code generation AI models/tools do you typically use?",
+            "type": "multi-select-with-other"
+        },
+        "C4": {
+            "question": "Please describe the types of development tasks for which you have used code generation AI models/tools.",
+            "type": "multi-select-with-other"
+        },
+        "C5": {
+            "question": "What benefits, if any, have you obtained through the use of code generation AI models/tools?",
+            "type": "short-answer",
+            "coded": true
+        },
+        "C6": {
+            "question": "What problems or gaps, if any, have you encountered when using code generation AI models/tools?",
+            "type": "short-answer",
+            "coded": true
+        },
+        "C7": {
+            "question": "Which of the following best describes your approach to the terms of service (TOS) for the code generation AI models/tools that you use?",
+            "type": "single-select"
+        },
+        "C8": {
+            "question": "Please explain your reasons for not incorporating code generation AI models/tools into your workflow.",
+            "type": "short-answer",
+            "coded": true
+        },
+        "C9": {
+            "question": "Does your organization permit the use of code generation AI models/tools in your work?",
+            "type": "single-select-with-other"
+        },
+        "C10": {
+            "question": "Do you or your organization have a process for documenting how and where code generation AI models/tools are used in your projects?",
+            "type": "single-select"
+        },
+        "C11": {
+            "question": "What types of information are recorded during this process?",
+            "type": "multi-select-with-other"
+        },
+        "C12": {
+            "question": "What is your understanding of why your organization does not permit the use of code generation AI models/tools in your work?",
+            "type": "short-answer",
+            "coded": true
+        }
+    },
+    "Understanding and Perception of Copyright Issues": {
+        "U1": {
+            "question": "The use of code generation AI models/tools raises important issues related to copyright law and/or license violations.",
+            "type": "likert"
+        },
+        "U2": {
+            "question": "The ongoing litigation involving code generation AI models/tools is likely to result in limitations on the use of such models/tools going forward.",
+            "type": "likert"
+        },
+        "U3": {
+            "question": "My or my organization\u2019s use of code generation AI models/tools creates potential legal risks.",
+            "type": "likert"
+        },
+        "U4": {
+            "question": "Developers' workflow should be structured to take account of potential legal risks in using code generation AI models/tools.",
+            "type": "likert"
+        },
+        "U5": {
+            "question": "If a developer's source code is copied, the developer should receive monetary compensation.",
+            "type": "likert"
+        },
+        "U6": {
+            "question": "If a developer's source code is copied, the developer should receive attribution.",
+            "type": "likert"
+        },
+        "U7": {
+            "question": "If I learned that code that I produced was used without my permission as training data for a code generation AI model/tool, I would be",
+            "type": "likert"
+        },
+        "U8": {
+            "question": "If I learned that a code generation AI model/tool was creating new code that resembles code that I have produced, I would be",
+            "type": "likert"
+        },
+        "U9": {
+            "question": "If I learned that someone, without my permission, copied a prompt that I developed for use in connection with a code generation AI model/tool, I would be",
+            "type": "likert"
+        },
+        "U10": {
+            "question": "(Optional) Feel free to comment or expand on any of your answers to the questions in this section.",
+            "type": "short-answer"
+        },
+        "U11": {
+            "question": "I believe that the copyright to code that is generated through the use of AI (select all that apply):",
+            "type": "multi-select-with-other"
+        },
+        "U12": {
+            "question": "How confident are you in the answer that you gave to the previous question?",
+            "type": "likert"
+        },
+        "U13": {
+            "question": "(Optional) To the extent you are willing, please explain your reasoning for the answer you gave regarding copyright ownership of code generated through the use of AI.",
+            "type": "short-answer"
+        },
+        "U14": {
+            "question": "In your opinion, what are other software development tasks besides code generation/documentation where the use of generative AI models could lead to legal issues?",
+            "type": "short-answer",
+            "coded": true
+        }
+    },
+    "Demographics": {
+        "D1": {
+            "question": "Please indicate where your age falls in the ranges listed below.",
+            "type": "single-select"
+        },
+        "D2": {
+            "question": "How many years have you worked in software development?",
+            "type": "single-select"
+        },
+        "D3": {
+            "question": "How many years of experience do you have working with machine learning/AI?",
+            "type": "single-select"
+        },
+        "D4": {
+            "question": "Which programming language(s) do you primarily use?",
+            "type": "multi-select-with-other"
+        },
+        "D5": {
+            "question": "What is the nature of your development work?",
+            "type": "multi-select-with-other"
+        },
+        "D6": {
+            "question": "What country is your organization based in (or the country where you reside, if you are self-employed)?",
+            "type": "single-text"
+        },
+        "D7": {
+            "question": "Have you had any formal training in copyright law and/or the legal implications of using code generation AI models/tools?",
+            "type": "single-select"
+        },
+        "D8": {
+            "question": "Was this training provided by your employer or something you sought out on your own?",
+            "type": "single-select"
+        }
+    },
+    "Contact information": {
+        "CI1": {
+            "question": "If you would be willing to be contacted for an interview to further explore your responses to this survey, please enter your e-mail address below.",
+            "type": "single-text",
+            "contains_pii": true
+        }
+    }
+}
