@@ -1,0 +1,7 @@
+
+getResponseData in populateDB.py is hardcoded.
+Update populateDB to use the newly formatted questions.json file.
+
+Create a universal config file
+
+Write documentation (of files and for usability)

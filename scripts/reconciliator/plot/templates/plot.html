@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <style>
+            #myChart{
+                margin-left: 25px;
+                margin-right: 25px;
+            }
+        </style>
+    </head>
+    <body>
+
+        <form method="post" class="searchOptions">
+            <label for="selected_question">Select Question:</label>
+            <select name="selected_question" id="qidDropdown">
+            {% for question, text in questions %}
+                <option value="{{question}}">{{text}}</option>
+            {% endfor %}
+            </select>
+
+            <div>
+                <label for="partition">Partition?</label>
+                {% if part %}
+                    <input type="checkbox" id="partition" name="partition" checked/>
+                {% else %}
+                    <input type="checkbox" id="partition" name="partition"/>
+                {% endif %}
+
+                <label for="part_question">On:</label>
+                <select name="part_question" id="qpartDropdown">
+                    {% for question, text in questions %}
+                        <option value="{{question}}">{{text}}</option>
+                    {% endfor %}
+                </select>
+
+                <label for="part_answers"></label>
+                <select name="part_answers" id="apartDropdown">
+                    {% for answer in answers %}
+                        <option value="{{answer}}">{{answer}}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+        </form>
+
+        <a href="..">Return Home</a>
+
+        <script>
+            document.getElementById('partition').addEventListener('change', function() {
+                if (this.checked) {
+                    updateUrl('true', 'part');
+                } else {
+                    updateUrl('false', 'part');
+                }
+            });
+        </script>
+
+        <script>
+            document.getElementById("qidDropdown").value = "{{qid}}";
+            document.getElementById("qpartDropdown").value = "{{qpart}}";
+            document.getElementById("apartDropdown").value = "{{apart}}";
+            currentUrl = new URL(window.location.href);
+
+            function updateUrl(selectedValue, dropdownId) {
+                const currentUrl = new URL(window.location.href);
+                currentUrl.searchParams.set(dropdownId, selectedValue);
+                if (selectedValue == ""){
+                    currentUrl.searchParams.delete(dropdownId)
+                }
+                window.location.href = currentUrl.href; 
+            }
+
+            function handleDropdownChange(event) {
+                const selectedValue = event.target.value;
+                dropdownId = event.target.id;
+                dropdownId = dropdownId.replace("Dropdown", "");
+                updateUrl(selectedValue, dropdownId);
+            }
+
+            const dropdowns = document.querySelectorAll('select');
+            dropdowns.forEach(dropdown => {
+            dropdown.addEventListener('change', handleDropdownChange);
+        });
+        </script>
+
+        <canvas id="myChart" height="{{height}}"></canvas>
+
+        <script>
+            let data = '{{data}}'
+            data = data.replace(/&#x27;/g, "\"");
+            data = JSON.parse(data);
+            
+            let totals = '{{totals}}';
+            totals = JSON.parse(totals);
+
+            let ctx = document.getElementById('myChart').getContext('2d');
+            let chart = new Chart(ctx, {
+                type: 'bar',
+                
+                data: data,
+                options: {    
+                    indexAxis: 'y',
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    scales: {
+                        y: {
+                            title:{
+                                display: true,
+                                text: 'Responses'
+                            }
+                        },
+                        x: {
+                            title:{
+                                display: true,
+                                text: 'Counts'
+                            }
+                        }
+                    },
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: '{{qtext}}',
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.dataset.label || '';
+                                    if (label) {
+                                        label += ': ';
+                                    }
+                                    if (context.parsed.y !== null) {
+                                        elements = context.dataset.data;
+                                        total = elements[elements.length - 1]
+                                        percent = (context.parsed.x / total * 100).toFixed(2);
+                                        label += context.parsed.x + ' (' + percent.toString() + '%)';
+                                    }
+                                    return label;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+
+        </script>
+    </body>
+</html>

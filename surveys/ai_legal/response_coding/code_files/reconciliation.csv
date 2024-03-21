@@ -1,0 +1,576 @@
+JSON,Response ID,C5,C6,C8,C12,U10,U13,U14
+0,R_6cA6EEImrgu1C7b,,,,,,,
+1,R_42Rrvcv9d2PQurB,,,,,,,"['Other_Media_Generation', 'Legal_Issues_Surrounding_Training_Data']"
+2,R_3izoKNirYOYbMzr,,,,,,,
+3,R_6g6KcZ4ASOPJqz3,,,,,,,
+4,R_4fPEfrGe7ARUB64,"['Automate_Tasks', 'Allows_to_Shift_Focus']",,,,,,"['Legal_Issues_Surrounding_Training_Data', 'Generating_Specifications']"
+5,R_4il0ZDLTwrc8udX,,,,,,,
+6,R_4nUF0vcqaHVGqfM,,,,,,,['Configuration']
+7,R_3ydBoyP207nB95X,,,,,,,['No_Response']
+8,R_4KSYbbQiHEUGHi5,"['Increased_Productivity', 'Increases_Scope_of_Work']",,,,,,
+9,R_4dMHsUzLJTzE8tw,,,,,,,['No_Response']
+11,R_4lhhcxXRsuMMjOQ,,,,,,,
+12,R_4pPks86qxJL2GPg,['Prototyping'],,,,,,['Documentation']
+13,R_4MxLprYeelTLb69,,,,,,,
+14,R_1rArUBsKKCciyt3,"['Save_Time', 'Prototyping']",,,,,,
+15,R_2k1B6YJVY70RiHh,"['Debugging', 'Generating_Test_Cases', 'Linting', 'Generating_Test_Data', 'Increased_Productivity']","['Unhelpful_or_Broken_Generations', 'Generates_Poor_Quality_Code']",,,,,
+16,R_4mghl3dr3D9iGrF,,,,,,,
+17,R_47qiDq7MOjig2jn,,,,,,,
+18,R_4aKVyu3V4Kp3bz7,,['Must_Use_Good_Prompts'],,,,,
+19,R_65zKuDyHmSZG54W,"['Provide_Reference_or_Learning','Faster_Development']",['Generates_Buggy_Code'],,,,,
+20,R_5FyyOogMshh4IpJ,,"['Unhelpful_or_Broken_Generations', 'Speed']",,,,,
+21,R_4M97UPA5J7g8iNm,,,,,,,
+22,R_2rIBvjH5bMl5TI9,,,,,,,
+23,R_6j23tHAYLWBFF8b,,,,,,,
+24,R_41XWOfPPHXUlbQL,,,,,,,
+25,R_663kRL7ZMQ9DJyg,"['Provide_Reference_or_Learning','Faster_Development']","['Lacks_Visual_Reasoning',""Doesn't_Work_for_Low_Code""]",,,,,
+26,R_6rkgYxY3CaIGE9g,"['Getting_Alternatives', 'Documentation', 'Experimenting','Faster_Development']","['Unhelpful_or_Broken_Generations', ""Can't_Automate_End_to_End_Process"", 'Hallucinations', 'Difficult_to_Go_From_Idea_to_Project']",,,,,"['License_Compliance', 'Patents', 'Content_Copyrights', 'Security_Issues', 'Information_Leaks', 'Break_Standards_and_Regulations', 'Data_Privacy', 'Generating_Malicious_Content', 'Bias', 'Accessibility_Compliance', 'Generating_Poor_Quality_Code']"
+27,R_1HTxxAFkCtndPue,['Faster_Development'],,,,,,['No_Response']
+28,R_4ivxL4aVnMOJph7,['Faster_Development'],,,,,,['Bad_Answer']
+29,R_6YS1MLK4A8gqVIN,,,['Sending_Code_to_Remote'],,,,
+30,R_7D89Bn84QelAP4k,,,"[""Models_Don't_Make_Good_Suggestions"", 'Webtools_are_Enough', 'No_Usecase_or_Not_Useful']",,,,
+31,R_6lGFQzkjeqMDOCe,,"['Forced_to_Refactor', 'Over-Engineering']",,,,,['Information_Leaks']
+32,R_4O6BC3hPjRIKuyw,['Bad_Answer'],,,,,,
+33,R_4paTWvh7LPE3197,"['Implementing_Algorithms', 'Refactoring_Code', 'Prototyping']",,,,,,
+34,R_3FwWcltctCETh3X,,,,,,,
+35,R_1hXAAURCXtHdyXT,['Faster_Development'],['Suggestions_Are_Not_Optimal'],,,,,
+36,R_1gc0qQ9YPrcVzK6,"['Quicker_Iterations', 'Allows_to_Shift_Focus']","['Unhelpful_or_Broken_Generations', 'Forced_to_Refactor']",,,,,
+37,R_7OO26ysKzHVrAmH,"['Allows_to_Shift_Focus', 'Faster_Feature_Delivery', 'Mistake_and_Typo_Correction']",,,,,,
+38,R_4JDcGrPJACBBUXS,"[""Don't_Have_To_Read_Documentation"", 'Debugging', 'Optimize_Solutions','Rubber_Duck_Debugging']",['Not_Trained_on_Most_Recent_Tech'],,,,,
+39,R_7QWwWmSf4JUzMuR,"['Library_Selection', 'Provide_Reference_or_Learning', 'Writing_Basic_Code_Snippets']","['Missing_Information', 'Autocomplete_Issues', 'Unhelpful_or_Broken_Generations', ""Doesn't_Work_for_Complex_Issues"", 'Hallucinations']",,,,,"['Medical_Domain', 'Product_Liability']"
+40,R_3EG1Ruaq67iMPNA,,,,,,,
+41,R_7RVwNtYiMAOTkxX,,,"['Legal_Risks', 'Prefer_to_Code_Themself', 'Ethical_Considerations', 'Wants_to_Undestand_Code']",,,,"['Documentation', 'Plagiarism_and_Imitation']"
+42,R_77rJLVzs99KJPJn,,,,,,,"['Protected_Info_In_Prompt', 'Information_Leaks']"
+43,R_4VIQ62AYVVTKInM,"[""Don't_Have_To_Read_Documentation"",'Faster_Development']","['Generates_Buggy_Code', 'Not_Good_For_Debugging']",,,,,"['Algorithms', 'Not_Concerned']"
+44,R_11n3am83emCMZfu,['Faster_Development'],,,,,,['Liability_for_Generated_Bugs_and_Defects']
+45,R_47s5D8I3QdciE3n,,,,,,,
+46,R_3UaH3LpgcKIf7AB,"['Debugging', 'Testing', 'Documentation', 'Assistance_with_Typing', 'Improve_Code_Quality','Faster_Development']",,,,,,
+47,R_3uQXDui7N3xWtwx,"['Can_Explain_or_Summarize_Code', 'Writing_Basic_Code_Snippets','Faster_Development']","[""AI_Doesn't_Understand_Problem"", 'Generates_Poor_Quality_Code', ""Doesn't_Work_for_Complex_Issues"",'Lack_of_Creativity']",,,,,
+48,R_12S3D1cldpP3iJU,"['Can_Explain_or_Summarize_Code', 'Debugging']","['Lack_of_Wider_Context', 'Outdated_Use_of_Packages', 'Security', 'Not_Trained_on_Most_Recent_Tech']",,,,,
+49,R_1YrMe6zNUanTXZO,,,,,,,
+50,R_2ValBhdlPMygvFL,,,,,,,
+51,R_4bhs5WOfVrmN1Gp,"['Provide_Reference_or_Learning', 'Prototyping']",,,,,,['Git_Related']
+52,R_4kB1moQVBndjfXK,,,,,,,"['Product_Liability', 'Medical_Domain', 'Information_Leaks']"
+53,R_40ZRepVP6P1e3WG,,"['Subtle_or_Hidden_Errors', ""AI_Doesn't_Understand_Problem"", 'Unhelpful_or_Broken_Generations', 'Off_Topic', 'Hallucinations', 'Have_to_Review_Carefully']",,,,,
+54,R_3Lv3eN1MkotGr9l,"['Generating_Test_Cases', 'Writing_Basic_Code_Snippets', 'Domain_Logic_Support', 'Porting_or_Translating_Code', 'Refactoring_Code', 'Security_Improvements', 'Faster_Development']",,,,,,
+55,R_3qhvnUcKRQUghLr,,,,,,,
+56,R_3OvGQ5zxTQx0vw2,"['Mistake_and_Typo_Correction', 'Provide_Reference_or_Learning', 'Debugging', 'Develop_in_Unfamiliar_Languages']","['Problems_That_Span_Files', 'Generates_Buggy_Code', 'Outdated_Use_of_Packages', 'Hallucinations']",,,,,
+57,R_423kq2H1jKXD4rx,"['Provide_Reference_or_Learning', 'Faster_Development', ""Don't_Have_To_Read_Documentation""]","['Must_Use_Good_Prompts', 'Unhelpful_or_Broken_Generations']",,,,,"['Architecture_Design','Content_Copyrights']"
+58,R_4eWZYYGRlgfxQDI,,"['Suggestions_Are_Not_Optimal', 'Unhelpful_or_Broken_Generations']",,,,,['No_Response']
+59,R_2EyWJXSoYLLUYBy,,,,,,,"['Security_Issues', 'Liability_for_Generated_Bugs_and_Defects']"
+60,R_6isALPN6SLaZ3SX,,,,,,,
+61,R_1qDNrIEzSL7x3t0,,,,,,,['Other_Media_Generation']
+62,R_3FKW058pXdgGhG4,"['Pair_Programming', 'Motivation', 'Understanding_Errors', 'Develop_in_Unfamiliar_Languages']",,,,,,
+63,R_3EFFWIHSOOT9OyC,,,,,,,
+64,R_2OYGNWrDgbx4sEo,"[""Don't_Have_To_Read_Documentation"", 'Explain_Concepts', 'Offers_a_Starting_Point']","['Unhelpful_or_Broken_Generations', 'Generated_Code_Is_Deprecated','Time_Consuming_to_Fix_Code']",,,,,
+65,R_2DosWWSvq1ULOa2,"['Writing_Basic_Code_Snippets', 'Faster_Development']","['Generates_Buggy_Code', 'Have_to_Review_Carefully', 'Inconsistent_Results','Subtle_or_Hidden_Errors']",,,,,
+66,R_5HU2VrnbsOtt4mU,['Faster_Development'],"['Poor_Test_Generation', 'Autocomplete_Issues']",,,,,
+67,R_4qaCkpZaZZltg7k,,,,,,,['Other_Media_Generation']
+68,R_2TQeUvNVbZsRMxb,['Faster_Development'],,,,,,
+69,R_3CgdaC0J5u0pf1X,['Faster_Development'],"['Multiple_Generations', 'Trying_Different_Prompts']",,,,,['No_Response']
+70,R_3XgNLwkCuCb8ZxS,,,,,,,
+71,R_3E4BY2ljTYSzh78,,,,,,,
+72,R_7ArX5QOc28srT9f,"['Provide_Reference_or_Learning', 'In_Context_Solutions']","['Must_Use_Good_Prompts', 'Have_to_Review_Carefully']",,,,,
+73,R_6wuh7USrAKgWkLW,,,,,,,['All_Tasks']
+74,R_6DVmkcAy2S8CKuH,"['Optimize_Solutions', 'Improve_Code_Quality', 'Generating_Test_Cases', 'Faster_Development']","['Circular_Conversations', 'Unhelpful_or_Broken_Generations']",,,,,
+75,R_8EagLLOS7tPGknr,"['Allows_to_Shift_Focus', 'Writing_Basic_Code_Snippets', 'Faster_Development']",,,,,,
+76,R_3dLF7af3WjC2XQ5,,,,,,,['Authoring']
+77,R_5QKRKIeBYpAaBNa,,,,,,,"['All_Tasks', 'Legal_Issues_Surrounding_Training_Data']"
+78,R_6XnPSE9L4x5dDgF,"['Experimenting', 'Provide_Reference_or_Learning', 'Auto_Completion', 'Faster_Development']",,,,,,"['Generation_of_Legal_Documents', 'Other_Media_Generation', 'Authoring','Generating_Open_Source_Licenses']"
+79,R_3r7aEYkQNzmS8YN,['Faster_Development'],,,,,,"[""Generated_Content_Can't_Be_Copyrighted""]"
+80,R_4S3wpkXFVXD8J9f,,,,,,,
+81,R_132KS5MeErsOYr6,,,,,,,
+82,R_20ZLOjLUrjw4M7P,"[""Don't_Have_To_Read_Documentation"", 'Less_Typing']","['Unhelpful_or_Broken_Generations', 'Hallucinations']",,,,,
+83,R_3ql4rtgMICZfzDt,"['Provide_Reference_or_Learning', 'Learn_Best_Practices']",['Must_Use_Good_Prompts'],,,,,['Decision_Making']
+84,R_4HmuxgeSusjcQAF,"['Error_Detection', 'Faster_Development']","['Unhelpful_or_Broken_Generations','Forced_to_Refactor']",,,,,['Other_Media_Generation']
+85,R_6G6uwucbF5knhrs,['Writing_Basic_Code_Snippets'],"['Missing_Information', 'Unhelpful_or_Broken_Generations', ""Doesn't_Work_For_Usecase""]",,,,,
+86,R_5XZbpsDtRUNgDrb,"['Provide_Reference_or_Learning', 'Faster_Development']",,,,,,"['All_Tasks', 'AI_No_Different_Than_Humans']"
+87,R_7hbi06KA9hOZ8PH,['Faster_Development'],,,,,,
+88,R_43sfYf7Jcs6h6z7,,,,,,,
+89,R_1ZUcRsrNy8uiN1L,"['Writing_Basic_Code_Snippets', 'Porting_or_Translating_Code', 'Faster_Development']",,,,,,
+90,R_1X4hXQ9Fxr1R7wf,"['Develop_in_Unfamiliar_Languages', 'Writing_Basic_Code_Snippets', 'Error_Detection', 'Refactoring_Code', 'Faster_Development']","['Unhelpful_or_Broken_Generations', 'Context_Window']",,,,,
+91,R_4HqycF2aaFRsFTL,,,,,,,
+92,R_76CuKRASV5i5c2Z,,,,,,,
+93,R_4PpmMcrK9wgSGzq,"['Debugging', 'Easy_to_Use']",,,,,,
+94,R_4maCOTKATWpxaud,,['Not_Trained_on_Most_Recent_Tech'],,,,,
+95,R_4DvExJNSaGJYm7L,"['Improve_Code_Quality', 'Optimize_Solutions']","['Unhelpful_or_Broken_Generations', ""AI_Doesn't_Understand_Problem""]",,,,,
+96,R_6tfg2denqZl21zG,,,,,,,
+97,R_5uCHxXyRMnDFxr6,,"['Unhelpful_or_Broken_Generations', 'Generates_Buggy_Code']",,,,,['Authoring']
+98,R_2ts5Y6Nbe74Rv63,,"['Missing_Information', ""Can't_Rely_On_AI_Fully"", ""Doesn't_Work_for_Complex_Issues"", ""Doesn't_Work_For_Less_Popular_Libraries"", 'Not_Trained_on_Most_Recent_Tech']",,,,,
+99,R_4djdvDZWimMQqpK,"['Writing_Basic_Code_Snippets', 'Faster_Development']","['Incorporating_Generated_Code', 'Forced_to_Refactor']",,,,,
+100,R_4upVAO80yqucM41,,['Unhelpful_or_Broken_Generations'],,,,,
+101,R_4GtzbrAGgTDGzbb,,,,,,,
+102,R_2qfb5J2f3rjGJTm,,,,,,,
+103,R_4dWm64F78iuNwkT,,"['Subtle_or_Hidden_Errors', ""Doesn't_Work_For_Less_Popular_Libraries"", 'Generates_Buggy_Code']",,,,,
+104,R_6KvGyq187YEAwsd,['Develop_in_Unfamiliar_Languages'],['Learning_Curve'],,,,,
+105,R_671EsivP0BZTepX,"['Getting_Alternatives', 'Debugging', 'Provide_Reference_or_Learning', 'Learn_Best_Practices', 'Improve_Code_Quality', 'Prototyping','Workflow_Improvements']",,,,,,"['Liability_for_Generated_Bugs_and_Defects', 'Break_Standards_and_Regulations', 'Security_Issues']"
+106,R_4z8Q37h2phErJhx,,,['Not_Good_for_Complex_Problems'],,,,
+107,R_4QWgBSSGmOj3MNV,"['Getting_Alternatives', 'Writing_Basic_Code_Snippets']","['Unhelpful_or_Broken_Generations', ""Doesn't_Work_For_Less_Popular_Libraries""]",,,,,
+108,R_8gioRLKGSpi01SQ,"['Faster_Development', 'Provide_Reference_or_Learning']",['Not_Trained_on_Most_Recent_Tech'],,,,,
+109,R_4gtHSEw9jIeQ7Ps,"['Faster_Development', 'Offers_a_Starting_Point']","['Lack_of_Wider_Context', 'Unhelpful_or_Broken_Generations', 'Trying_Different_Prompts', 'Hallucinations','Must_Use_Good_Prompts']",,,,,"['Product_Liability', 'Medical_Domain', 'Use_in_Critical_Systems']"
+110,R_2Jl2HnKqdTZMwue,,,,,,,
+111,R_39yaO47wGiTf8pr,"[""Don't_Have_To_Read_Documentation"", 'Less_Fatigue_and_Burn_Out', 'Faster_Development']","['Hallucinations', 'Not_Trained_on_Most_Recent_Tech', 'Lack_of_Wider_Context']",,,,,
+112,R_5CgIpZgvUPUZQFb,"['Faster_Development', 'Performing_Repetitive_Tasks', 'Prototyping']",,,,,,"['Liability_for_Generated_Bugs_and_Defects', 'Security_Issues', 'Bias', 'Data_Privacy']"
+113,R_246G47qbmBezLPa,,,,,,,
+114,R_1qrsksJpHMUFv95,,,,,,,"['Impersonation', 'Other_Media_Generation']"
+115,R_13a3FwkFrvvRq1H,,,,,,,
+116,R_3MfTMUCajqFMPh7,,,,,,,"['Generated_ML_Networks', 'Algorithms', 'Patents']"
+117,R_7DVhIa30onScw4j,,,,,,,
+118,R_3ZC8OE1R9ExWfyq,"['Provide_Reference_or_Learning', 'Experimenting', 'Develop_in_Unfamiliar_Languages', 'Incentive_to_Write_Good_Tests', 'Faster_Development', 'Allows_to_Shift_Focus']","['Subtle_or_Hidden_Errors', 'Inability_to_Design', 'Must_Use_Good_Prompts', 'Unhelpful_or_Broken_Generations', 'Learning_Curve', 'Mindset_Switch', ""Doesn't_Work_For_Less_Popular_Libraries"", 'Not_Trained_on_Most_Recent_Tech']",,,,,
+119,R_2TTTngmeyvPiHTP,"['Error_Detection', 'Improve_Code_Quality', 'Faster_Development']",['Trying_Different_Prompts'],,,,,"['Authoring', 'Plagiarism_and_Imitation']"
+120,R_6ucYnAET8MvMW6R,,"[""Doesn't_Work_For_Less_Popular_Libraries""]",,,,,"['Medical_Domain', 'Decision_Making', 'Use_in_Critical_Systems']"
+121,R_7WOVIye4Kq0oeYV,,,,,,,
+122,R_6vkV2U0MC0zAWWe,,,,,,,
+123,R_3LkeZIBrETYXhGT,,"['Circular_Conversations', ""Doesn't_Follow_Instructions"", 'Unhelpful_or_Broken_Generations']",,,,,['Other_Media_Generation']
+124,R_47j0NLR3Qlev1N9,,['Outdated_Use_of_Packages'],,,,,
+125,R_4WkJOFu8dVgPFm1,"['Error_Detection', 'Develop_with_Unfamiliar_Libraries', 'Writing_Basic_Code_Snippets']","['Subtle_or_Hidden_Errors', ""Doesn't_Work_for_Complex_Issues"", 'Generates_Buggy_Code']",,,,,
+126,R_67eAJ3uDLetbhfn,"['Simplifying_Code_and_Logic', 'Fewer_Bugs', 'Standard_and_Consistent_Code', 'Faster_Development']",,,,,,"['All_Tasks', 'Lawyers_Will_Decide']"
+127,R_5CeT6wlhD6o16Ak,"['Writing_Basic_Code_Snippets', 'Faster_Development']",,,,,,
+128,R_6kjO0auLhSULIcb,['Offers_a_Starting_Point'],"[""Can't_Automate_End_to_End_Process""]",,,,,
+129,R_3PzHfUD2QaC1G7w,,"['Unhelpful_or_Broken_Generations', ""Can't_Rely_On_AI_Fully""]",,,,,
+130,R_4ZVOofJIi1AfJVq,,"[""Can't_Rely_On_AI_Fully"", 'Lack_of_Wider_Context']",,,,,['Not_Sure_or_No_Issues']
+131,R_5GBT8skp3D1k4UG,,,,,,,"['Break_Standards_and_Regulations', 'Refactoring']"
+132,R_725NT1tcGEvqcoj,"['Writing_Basic_Code_Snippets', 'Faster_Development']",,,,,,
+133,R_1m1qZRcx4gn3DQi,"['Provide_Inspiration', 'Offers_a_Starting_Point']","['Have_to_Review_Carefully', 'Context_Window', 'Time_Consuming_to_Fix_Code', 'Lack_of_Wider_Context', 'Outdated_Use_of_Packages','Hardware_Related_Issues']",,"['Sensitive_Information_or_IP', 'Legal_Risk']",,,
+134,R_4zcAdvEeCjq1MVX,"['Getting_Alternatives', 'Can_Explain_or_Summarize_Code']","['Generates_Poor_Quality_Code', 'Unhelpful_or_Broken_Generations', 'Must_Use_Good_Prompts']",,,,,['No_Response']
+135,R_6HRANR36C3t7c3G,,,,,,,
+136,R_4Lodmzgx1H3T06R,['Offers_New_Perspective_or_Insight'],,,,,,
+137,R_4KCuGquXr4a8yEW,"['Fewer_Bugs', 'Faster_Development']",,,,,,
+138,R_4tvoL1Orum3c6OZ,,['Outdated_Use_of_Packages'],,,,,['Product_Design']
+139,R_53nYSL4xGbTonZf,['Offers_New_Perspective_or_Insight'],"[""Doesn't_Work_For_Usecase"",'Unhelpful_or_Broken_Generations']",,,,,"['Automation', 'Hacking', 'Bias']"
+140,R_5ruQU0fssL7SItS,"[""Don't_Have_To_Read_Documentation""]",['Unhelpful_or_Broken_Generations'],,,,,
+141,R_4lxdfMySAkHRzKg,"['Increased_Understanding', 'Provide_Reference_or_Learning', 'Domain_Logic_Support', 'Faster_Development']",['Outdated_Use_of_Packages'],,,,,
+142,R_2hECuUYBC4Gft02,"['Can_Work_on_Bigger_Projects', 'Motivation']",['Too_Many_To_List'],,,,,"['Lawyers_Will_Decide', 'All_Tasks']"
+143,R_58GynCOoVmS96MN,"['Faster_Development', 'Provide_Reference_or_Learning']",,,,,,
+144,R_1sYopL0m23o1Hlf,"['Provide_Reference_or_Learning', 'Writing_Basic_Code_Snippets']","['Problems_That_Span_Files', 'Context_Window', 'Not_Good_with_Math', 'Lack_of_Wider_Context', 'Have_to_Review_Carefully','Unhelpful_or_Broken_Generations']",,,,,"['Content_Copyrights', 'All_Tasks', 'Toxic_Content', 'Misleading_Content']"
+145,R_4xHXpv6VgRuexDX,,"['Autocomplete_Issues', 'Hallucinations']",,,,,
+146,R_5pWCeSbafIQyqWW,,"['Censored', 'Have_to_Review_Carefully']",,,,,"['Law_Is_Too_Slow', 'The_Law_Will_Change']"
+147,R_4fkRslCZ6hwTDDa,,"['Unhelpful_or_Broken_Generations', ""AI_Doesn't_Understand_Problem""]",,,,,
+148,R_6ou0ySThoXxb1HY,"['Testing', 'Documentation', 'Faster_Development']",,,,,,"['Conformity_Assessment', 'Security_Issues']"
+149,R_22xLt1R5potpw4x,,"['Context_Window', ""Can't_Automate_End_to_End_Process""]",,,,,['Liability_For_AI_Agent_Actions']
+150,R_4e9z5WgF0VyQ9vc,['Develop_in_Unfamiliar_Languages'],"[""Generated_Code_Doesn't_Fit_Project"", 'Outdated_Use_of_Packages', 'Generated_Code_Is_Deprecated']",,,,,
+151,R_4kuF6kB80APrxWp,,,,,,,"['References_Firm_Company_Or_Name', 'Plagiarism_and_Imitation']"
+152,R_3PhMqhUY8wTGpYa,,"['Generates_Poor_Quality_Code', 'Time_Consuming_to_Fix_Code']",,,,,
+153,R_7s2WpvwNKZG7Dtn,,"['Hallucinations', 'Not_Trained_on_Most_Recent_Tech']",,,,,
+154,R_4RVSKXbMjruoStz,"['Offers_New_Perspective_or_Insight', 'Provide_Inspiration', 'Faster_Development', 'Fewer_Bugs', 'Faster_Development']",,,,,,['Data_Privacy']
+155,R_2RKnRwzcGYzWNKV,,"['Time_Consuming_to_Prompt', 'Accuracy', ""AI_Doesn't_Understand_Problem""]",,,,,['Not_Sure_or_No_Issues']
+156,R_25uLySXId17RXkf,,,,,,,
+157,R_4VlGy6eN7eoLe38,,,,,,,"['Information_Leaks', 'All_Tasks']"
+158,R_7uvVdh3BB9OVZ8x,"['Faster_Development', 'Debugging', 'Documentation']","[""Models_Can't_Test_Output""]",,,,,
+159,R_5jZ59U721kiQven,"['Improve_Code_Quality', 'Getting_Alternatives', 'Provide_Inspiration', 'Offers_New_Perspective_or_Insight']","['Ambiguities', 'Generic_Generations', 'Lack_of_Creativity','Unhelpful_or_Broken_Generations']",,,,,"['Other_Media_Generation', 'Generating_Malicious_Content']"
+160,R_6lxbSHYipxkSn2z,,,,,,,['No_Response']
+161,R_8nS2Drbcj2y9Jmx,,,,,,,
+162,R_3VF8rQ3ujOduVqr,,,,,,,
+163,R_4g4R80egJRhod3M,,,['Legal_Risks'],,,,
+164,R_1MRt19FpsubdO1F,['Writing_Basic_Code_Snippets'],"['Lack_of_Wider_Context', 'Hallucinations']",,,,,
+165,R_3kOyFRAg49AyWeS,"['Debugging', 'Built-in-Algorithms']",,,,,,
+166,R_4gLmxzJCOGL1SDg,,,['Sending_Code_to_Remote'],,,,['Legal_Issues_Surrounding_Training_Data']
+167,R_614Y3xBMxc9osmt,,,,,,,['Information_Leaks']
+168,R_3pWR7j7Pwog2F4H,"['Allows_to_Shift_Focus', 'Automate_Tasks']","['Circular_Conversations', 'Unhelpful_or_Broken_Generations']",,,,,"['Other_Media_Generation', 'AI_Influencers']"
+169,R_6urimTKL7zynReP,"['Faster_Development', 'Debugging']",,,,,,
+170,R_3Iki73dvYS2J2oN,,,,,,,
+171,R_6z7j50fx8PiYtjj,"['Allows_to_Shift_Focus', 'Not_Having_to_Think', 'Quicker_Iterations']","['Depends_on_Scope', 'Subtle_or_Hidden_Errors']",,,,,
+172,R_3W6Tv2t3kmLthuN,"['Faster_Development', 'Data_Analysis', 'Learn_Best_Practices', 'Improve_Code_Quality', 'Documentation', 'Prototyping']","['Time_Consuming_to_Fix_Code', 'Hard_to_Understand_Generated_Code', 'Outdated_Use_of_Packages', ""Doesn't_Work_For_Less_Popular_Libraries""]",,,,,
+173,R_1sXR19dsK9203YY,"['Prototyping', 'Develop_with_Unfamiliar_Libraries', 'Code_Review']","[""Doesn't_Work_for_Complex_Issues"", 'Context_Window']",,,,,
+175,R_7D0980YuOIK98aQ,"['Getting_Alternatives', 'Rubber_Duck_Debugging', 'Error_Detection', 'Debugging']",,,,,,
+176,R_1MXJr07J6TQxGKA,"['Provide_Inspiration', 'Writing_Commit_Messages', 'Documentation', 'Prototyping']","['Outdated_Use_of_Packages', 'Interactivity_Problems', 'Unhelpful_or_Broken_Generations']",,,,,
+177,R_4eOI70iqY8JNDZG,,,,,,,"['Documentation', 'Unemployment', 'Security_Issues', 'UI_Related']"
+178,R_17jpwXU1ZXCorwI,,"['Suggestions_Are_Not_Optimal', 'Verbose']",,,,,
+179,R_11b0GgzuoloT117,,,,,,,
+180,R_3EFDe7q7rkCGmUs,"['Writing_Basic_Code_Snippets', 'Documentation']","[""Doesn't_Follow_Instructions""]",,,,,
+181,R_7y5bQ5DLMQ5M7HH,"['Faster_Development', 'Provide_Reference_or_Learning', 'Auto_Completion', 'Prototyping', 'Fewer_Bugs']",,,,,,
+182,R_7DUXhhBhB9N99Wb,"['Getting_Alternatives', 'Faster_Development', 'Provide_Reference_or_Learning', 'Develop_in_Unfamiliar_Languages']","['Breaks_Code_on_Refactor', 'Problems_That_Span_Files', 'Makes_Problems_Worse', 'Hallucinations', 'Lack_of_Wider_Context',""Doesn't_Work_For_Legacy""]",,,,,"['Security_Issues', 'Liability_for_Generated_Bugs_and_Defects', 'Breaching_NDA', 'Patents']"
+183,R_8VKq2v6O9YXXBYV,,['Unhelpful_or_Broken_Generations'],,,,,
+184,R_4P78Oe84EUCTVdP,"['Allows_to_Shift_Focus', 'Develop_in_Unfamiliar_Languages', 'Develop_with_Unfamiliar_Libraries', 'Increases_Scope_of_Work', 'Multimodel_Models','Lowers_Barrier_to_Entry']",,,,,,"['Hacking', 'Generating_Malicious_Content']"
+185,R_6DNDvqxjjqQFOkI,"['Provide_Reference_or_Learning', 'Facilitate_Problem_Solving', 'Increased_Understanding', 'Faster_Development', 'Documentation']","['Unfounded_Confidence', 'Unhelpful_or_Broken_Generations']",,,,,"['Algorithms', 'Patents']"
+186,R_4PcdF613hokQx54,,,,,,,
+187,R_3iVhsF1OV9cJlrr,"['Generating_Test_Cases', 'Faster_Development', 'Writing_Basic_Code_Snippets', 'Improve_Code_Quality']","['Have_to_Review_Carefully', ""Doesn't_Work_for_Complex_Issues"", ""AI_Doesn't_Understand_Problem""]",,,,,"['Data_in_Code', 'Product_Design', 'Algorithms']"
+188,R_4fqQi3Ym4tKnVOH,,,"['Prefer_to_Code_Themself', 'Takes_the_Fun_Out_of_Coding']",,,,
+189,R_2q9vnZ2DKJAEyLn,['Improve_Code_Quality'],,,,,,
+190,R_6FICeNKKzuuvyvR,"['Generating_Test_Cases', 'Develop_with_Unfamiliar_Libraries', 'Writing_Basic_Code_Snippets', 'Domain_Logic_Support', ""Don't_Have_To_Read_Documentation"", 'Helps_Solve_Complex_Problems', 'Helps_when_Stuck', 'Provide_Reference_or_Learning', 'Porting_or_Translating_Code']","['Not_Smart_Enough', ""Can't_Compete_with_Expert_Devs"", ""Doesn't_Work_for_Complex_Issues"", 'Not_Trained_on_Most_Recent_Tech', 'Lack_of_Wider_Context', 'Context_Window', ""Doesn't_Work_For_Less_Popular_Libraries""]",,,,,
+191,R_2CVISeajpPCxx5f,,,,,,,
+192,R_7CmrJDklV37YpVu,,"['Inconsistent_Results', 'Must_Use_Good_Prompts', 'Unhelpful_or_Broken_Generations']",,,,,"['Misleading_Content', 'Generating_Malicious_Content']"
+193,R_6TsLHrhQ5x2gkUj,"['Documentation', 'Standard_and_Consistent_Code']",['Unhelpful_or_Broken_Generations'],,,,,
+194,R_3qHFmN57OqA6OEV,,,,,,,
+195,R_71n4iyh8erX9iCa,"['Provide_Reference_or_Learning', 'Offers_a_Starting_Point', 'Prototyping']","['Generates_Buggy_Code', ""Can't_Rely_On_AI_Fully""]",,,,,['No_Response']
+196,R_7Pbgscg8CPf4kVW,,,"['Security_Concerns', 'Alternatives_are_Sufficient', 'Legal_Risks', 'Discourages_Learning_Project']",,,,"['Data_Privacy', 'Documentation', 'Other_Media_Generation', 'Management', 'All_Tasks', 'Legal_Issues_Surrounding_Training_Data']"
+197,R_122CnbyM8BhNcTn,,,,,,,
+198,R_51bY7en8TVvnejy,,,,,,,
+199,R_3IQtywix6iq8rV7,"['Implementing_Algorithms', 'Writing_Basic_Code_Snippets']","['Intrusive', 'Autocomplete_Issues']",,,,,
+200,R_3v6WudhnTfPzpcV,,,,,,,"['Authoring', 'Research']"
+201,R_4t3VDVFQGe8Ef7E,,,,,,,"['Product_Design', 'Requirements']"
+202,R_7FDqqWY4hNxv8c0,,,,,,,['UI_Related']
+203,R_40OVtyLF8n9qjQZ,,,['Uncertainty_About_Deploying_to_Production'],,,,
+204,R_5cAFce7qbVRAyLH,"['Learn_Best_Practices', 'Develop_with_Unfamiliar_Libraries', 'Auto_Completion', 'Provide_Reference_or_Learning', 'Depends_on_the_Tool', 'Architecture_and_System_Design', 'Faster_Development']","['Lack_of_Creativity', ""Doesn't_Work_for_Complex_Issues""]",,,,,"['Generating_Malicious_Content', 'Rogue_Agents', 'Impersonation']"
+205,R_7f86MW7VNFamtZr,"['Faster_Development', 'Code_Review', 'Prototyping']","['Generates_Poor_Quality_Code', 'Hallucinations']",,,,,"['Other_Media_Generation', 'Plagiarism_and_Imitation']"
+206,R_7IuP760GXyZ49aJ,"[""Don't_Have_To_Read_Documentation""]",['Unhelpful_or_Broken_Generations'],,,,,
+207,R_40P7n1XBrD7DW4y,"['Improve_Code_Quality', 'Allows_to_Shift_Focus']",,,,,,"['Content_Copyrights', 'Medical_Domain', 'Legal_Practice']"
+208,R_3OgQHN8SnTb3D1L,"['Can_Explain_or_Summarize_Code', 'Provide_Reference_or_Learning', 'Faster_Development']","['Trained_on_Old_Data', 'Lack_of_Wider_Context']",,,,,"['AI_No_Different_Than_Humans', 'Legal_Issues_Surrounding_Training_Data']"
+209,R_5ISJzKW4tgNtQfj,"['Writing_Basic_Code_Snippets', 'Auto_Completion']","['Suggestions_Are_Not_Optimal','Blackbox_Problem']",,,,,"['Information_Leaks', 'Testing', 'Developers_Sleep_at_Wheel']"
+210,R_7q9JY7hRCDOFyH3,,"['Context_Window', 'Generic_Generations', 'Unfounded_Confidence', 'Lack_of_Wider_Context',""Doesn't_Follow_Instructions""]",,,,,
+211,R_4HiFhLywCkibWeY,,,,,,,
+212,R_4vpZd1Z1K3HtIGZ,"['Architecture_and_System_Design', 'Refactoring_Code', 'Faster_Development', 'Learn_Best_Practices']",,,,,,['Product_Design']
+213,R_4xhDRSqGBhrglAB,,['Unhelpful_or_Broken_Generations'],,,,,
+214,R_4G7mMh2q0dwpCGd,"['Error_Detection', 'Performing_Repetitive_Tasks']",,,,,,
+215,R_4E058LAODiH5OoI,,,"['Prefer_to_Code_Themself', 'Slower_Than_Coding_or_Other_Tools', 'Legal_Risks']",,,,
+216,R_4bCzqOa8Qo2Yz73,"['Improve_Code_Quality', 'Faster_Development']","[""Doesn't_Follow_Instructions"", ""Doesn't_Really_Understand""]",,,,,
+217,R_4dmFgD15PB65bTj,,['Circular_Conversations'],,,,,
+218,R_8AGNLDrWgAZAlUY,,,,,,,
+219,R_21bFhRdcID06mAT,"['Pair_Programming', 'Develop_in_Unfamiliar_Languages', 'Less_Typing', 'Detection_of_Edge_Cases', ""Don't_Have_To_Read_Documentation""]","['Time_Consuming_to_Fix_Code', 'Have_to_Review_Carefully', ""Doesn't_Ask_for_Clarification"",'Autocomplete_Issues']",,,,,['Testing']
+220,R_8E5sbpRMXOcf0CH,"['Faster_Development', 'Writing_Basic_Code_Snippets', 'Offers_a_Starting_Point']","['Lack_of_Creativity', 'Unhelpful_or_Broken_Generations', 'Generates_Buggy_Code', ""Doesn't_Work_For_Usecase""]",,,,,
+221,R_4aMTXzSmlk5oUCt,,,,,,,"['Information_Leaks', 'UI_Related', 'Product_Design']"
+222,R_6tR2osP2UWKM8Kt,,,"['Webtools_are_Enough', 'Sending_Code_to_Remote']",['Sensitive_Information_or_IP'],,,
+223,R_22Ndppw0glP0TBv,,,,,,,
+224,R_6JKNCgbbiUzTZBv,['Bad_Answer'],,,['Bad_Answer'],,,
+225,R_4xqIZVcPUBZUGc1,,,"['Prefer_to_Code_Themself', 'Only_Use_For_Hard_to_Google_Cases']",,,,
+226,R_4exfMpuwx8j7scH,"['Less_Typing', 'Generating_Test_Cases', 'Writing_Basic_Code_Snippets', 'Provide_Reference_or_Learning', 'Faster_Development']","['Unhelpful_or_Broken_Generations', ""Doesn't_Follow_Best_Practices""]",,,,,
+227,R_4QyqoXNo25swPCI,,,,,,,
+228,R_51BnaPMrhGUGdIU,,,,,,,
+229,R_1Jt4aD0NoHQgYDL,"['Offers_New_Perspective_or_Insight', 'Increased_Productivity', 'Provide_Reference_or_Learning', 'Faster_Development']",,,,,,['Generation_of_Task_Descriptions']
+231,R_5nVt3O4gBUNUKbI,"['Offers_a_Starting_Point', 'Writing_Basic_Code_Snippets', 'Faster_Development']",,,,,,"['UI_Related', 'Generation_of_Business_Models', 'Documentation']"
+232,R_1D7zvdSx558GO7Y,"['Auto_Completion', 'Faster_Development']",,,,,,
+233,R_1j1XaSShizaRHqz,,"['Unfounded_Confidence', 'Subtle_or_Hidden_Errors', 'Time_Consuming_to_Fix_Code', 'Have_to_Review_Carefully', 'Hallucinations']",,,,,['Bad_Answer']
+234,R_1CKsCAlQm0Vua9b,,['Young_Technology'],,,,,
+235,R_3QmtEzxB1i8QE5q,,,,,,,
+236,R_6aRkgF9aLmQ7F1A,,,"['No_Usecase_or_Not_Useful', 'Concerns_About_Training', 'Clients_Forbid_Them', 'Not_Mature_Enough']",,,,"['Composing_Ones_Thoughts', 'Information_Leaks']"
+237,R_7H6sMJe5PtZSygV,,['Reasoning_Skills'],,,,,
+238,R_5TtR4EFaTver9uO,"['Commit_Summarization', 'Writing_Commit_Messages', 'Faster_Development', 'Documentation']","['Unfounded_Confidence', 'Unhelpful_or_Broken_Generations', ""AI_Doesn't_Understand_Problem"", 'Circular_Conversations']",,,,,['No_Response']
+239,R_3jy1Bohp3vok01J,"['Provide_Reference_or_Learning', 'Pair_Programming']","[""Doesn't_Work_for_Complex_Issues"", ""Can't_Automate_End_to_End_Process"", 'Hallucinations']",,,,,['Product_Liability']
+240,R_6CvIOnMIyQPnocZ,"['Mistake_and_Typo_Correction', 'Writes_Small_Scripts']","[""Can't_Rely_On_AI_Fully"", ""Doesn't_Work_for_Complex_Issues"", 'Must_Use_Good_Prompts']",,,,,
+241,R_1dSrj85iYGfewX4,"['Faster_Development', 'Prototyping']",,,,,,
+242,R_6nJB1EcWrOziq9u,"['Improve_Code_Quality', 'Debugging', 'Quicker_Iterations']","['Reasoning_Skills', 'Trained_on_Old_Data', 'Context_Window']",,,,,
+243,R_2OixwHaKLweyMkf,"['Refactoring_Code', 'Writing_Basic_Code_Snippets', 'Faster_Development', 'Offers_New_Perspective_or_Insight']",,,,,,['Other_Media_Generation']
+245,R_1uwxrlviTvd1EIK,"['Develop_with_Unfamiliar_Libraries', 'Writing_Basic_Code_Snippets']","['Lack_of_Wider_Context', ""Doesn't_Work_For_Less_Popular_Libraries""]",,,,,"['Product_Liability', 'Medical_Domain', 'Use_in_Critical_Systems']"
+246,R_6gFOY4QwNrXq2Zt,"['Improve_Code_Quality', 'Faster_Development', 'Writing_Regex']","['Young_Technology', ""Doesn't_Work_for_Complex_Issues"", 'Context_Window']",,,,,
+248,R_2DSHR59KeY9Qo28,"['Standard_and_Consistent_Code', 'Improve_Code_Quality']","[""Doesn't_Work_for_Complex_Issues""]",,,,,"['Generation_For_Scams', 'Impersonation', 'Generating_Malicious_Content', 'Other_Media_Generation']"
+249,R_4XAynmRWjemRYsh,,"['Garbage_in_Garbage_Out', 'Network_Issues']",,,,,
+250,R_6zwr5jkZMH8ouvr,"['Pair_Programming', 'Faster_Development', 'Develop_in_Unfamiliar_Languages']","['Problems_That_Span_Files', 'Time_Consuming_to_Prompt', 'Multiple_Windows', 'Lack_of_Wider_Context', 'Not_Autonomous']",,,,,"['Law_Is_Too_Slow', 'The_Future_is_Now_Old_Man']"
+251,R_4hGHTroz8ivYQyB,,,,,,,
+252,R_5kW0ZLB8SkKzBlf,,,,,,,
+253,R_5aXZ1NRlhv4SvHH,,,,,,,
+254,R_2qfANgYclg8V34y,,['Off_Topic'],,,,,
+255,R_411FUipMyLvjbhL,"['Can_Explain_or_Summarize_Code', 'Faster_Development', 'Writing_Basic_Code_Snippets', 'Implementing_Algorithms', 'Porting_or_Translating_Code']","['Unhelpful_or_Broken_Generations', 'Not_Good_For_Debugging', 'Outdated_Use_of_Packages']",,,,,
+256,R_1RvzP5pLObBgpDX,"[""Don't_Have_To_Read_Documentation""]",,,,,,['Other_Media_Generation']
+257,R_4azqrJOvGwGxS1u,"['Provide_Reference_or_Learning', 'Offers_New_Perspective_or_Insight', 'Experimenting', 'Provide_Inspiration', 'Error_Detection', 'Faster_Development', 'Prototyping', 'Lowers_Barrier_to_Entry']","['Suggestions_Are_Not_Optimal', 'Unhelpful_or_Broken_Generations', ""Can't_Compete_with_Expert_Devs"", 'Not_Good_For_Debugging', ""Doesn't_Work_for_Complex_Issues"", 'Subtle_or_Hidden_Errors']",,,,,"['Data_Privacy', 'Medical_Domain', 'Ownership', 'Break_Standards_and_Regulations', 'Use_in_Critical_Systems', 'Bias']"
+258,R_18JyMokx1BBgEwN,,"[""Doesn't_Work_for_Complex_Issues"", ""Can't_Automate_End_to_End_Process""]",,,,,
+260,R_1LLjcOfheZvqpX1,,"[""Doesn't_Really_Understand"", 'Inconsistent_Results']",,,,,
+261,R_6BrF6KqOaJaSTv9,,,,,,,"['Misleading_Content', 'Medical_Domain']"
+262,R_4hgAwTfS6nBtfmr,,"[""Can't_Rely_On_AI_Fully"", 'Suggestions_Are_Not_Optimal']",,,,,['Other_Media_Generation']
+264,R_4oNc1Ffygt813zz,,,,,,,
+265,R_478Uf2a1mQuzm8r,,['Time_Consuming_to_Prompt'],,,,,"['Chatbots', 'Authoring']"
+266,R_1jwEeZu1rl67rhU,"['Testing', 'Faster_Development', 'Faster_Configuring_of_Projects', 'Prototyping']","['Unhelpful_or_Broken_Generations', 'Trying_Different_Prompts']",,,,,"['Other_Media_Generation', 'Chatbots', 'Authoring']"
+267,R_4qF6gmuMl2U0XrV,['Faster_Development'],"['Intrusive', 'Autocomplete_Issues']",,,,,"['Generating_Copyrighted_Content', 'Algorithms']"
+268,R_4alp4XSUKel71aV,"['Debugging', 'Generating_Test_Cases', 'Error_Detection']",['Not_Autonomous'],,,,,
+269,R_7cpH9bEN5XnorZT,,,,,,,
+271,R_5d5He8y9Z9Zu0fl,,,,,,,['Information_Leaks']
+272,R_7HIlkro6yTCmI25,,,,,,,
+273,R_2gIkMQ2s6gUUjJf,,,,,,,
+274,R_3rMmAfFY5dImYdm,"['Increases_Scope_of_Work', 'Helps_Solve_Complex_Problems', 'Faster_Development']",,,,,,['Protected_Info_In_Prompt']
+275,R_6fxOY4tphwNzMiF,,,,,,,
+276,R_51iTzRwvAe058cQ,,,"['Prefer_to_Code_Themself', 'Webtools_are_Enough', 'Doesn&#x27;t_Want_to_Become_Dependent']",,,,
+277,R_4kFwr3UusbTkZXm,"[""Don't_Have_To_Read_Documentation""]",['No_Gaps'],,,,,
+278,R_1CCVdf8m9wFjXrd,"['Faster_Development', 'Provide_Reference_or_Learning', 'Prototyping']","['Time_Consuming_to_Fix_Code', 'Outdated_Use_of_Packages', 'Hallucinations']",,,,,"['Documentation', 'Patents']"
+279,R_5fdztGxm7IHb3Gc,"['Generating_Test_Cases', 'Provide_Reference_or_Learning', 'Faster_Development', 'Static_Analysis', ""Don't_Have_To_Read_Documentation"", 'Refactoring_Code', 'Prototyping']","['Generates_Buggy_Code', 'Subtle_or_Hidden_Errors', 'Lack_of_Wider_Context']",,,,,
+280,R_1uBGanNjaAwbKzD,"['Faster_Development', 'Accuracy']","[""Doesn't_Work_for_Complex_Issues"", 'Context_Window', 'Lack_of_Wider_Context']",,,,,['No_Response']
+282,R_4sKGofWeSwbtFzr,,,,,,,
+284,R_2DOK7phdUa1neE2,,,,,,,
+285,R_2qKFgVRzdFJNHDF,"['Generating_Test_Data', 'Writing_Basic_Code_Snippets', 'Develop_in_Unfamiliar_Languages', 'Faster_Development']",,,,,,
+286,R_6m7Ww2onQsOQkCq,"['Generating_Test_Cases', 'Prototyping', 'Porting_or_Translating_Code']","['Time_Consuming_to_Fix_Code', 'Poor_Test_Generation']",,,,,
+287,R_41amCjhMvaL6Kkl,"['Easy_to_Use', 'Faster_Development', 'Writing_Basic_Code_Snippets']","['Generic_Generations', 'Hallucinations']",,,,,
+288,R_1HgZouqDNvVjW5o,['Performing_Repetitive_Tasks'],"[""Doesn't_Follow_Instructions"", 'Problems_That_Span_Files', 'Lack_of_Wider_Context', 'Generated_Code_Is_Deprecated', 'Context_Window', 'Confused', 'Hallucinations']",,,,,['Other_Media_Generation']
+289,R_4PSpl7rIm20xqwp,"['Improve_Code_Quality', 'Faster_Development']",,,,,,['No_Response']
+290,R_6EyjDIoch96XKOm,,"[""Can't_Rely_On_AI_Fully""]",,,,,['AI_No_Different_Than_Humans']
+291,R_3QzMRHXftfAZP2X,"['Faster_Development', 'Debugging']",,,,,,
+292,R_2nkJU85VSlWzVkf,,,,,,,
+293,R_6WwLA8jSROAxIik,,"['Hallucinations', 'Verbose','Unhelpful_or_Broken_Generations']",,,,,
+294,R_1X7Klk29v8WZvqZ,,,,,,,
+295,R_36PsRXcqP6Vhi0N,['Faster_Development'],"[""Doesn't_Follow_Instructions"", 'Unhelpful_or_Broken_Generations']",,,,,
+296,R_6h2Wcup9DVvN9MR,['Experimenting'],"[""Doesn't_Work_for_Complex_Issues"", ""Models_Don't_Learn"", 'Context_Window']",,,,,"['Authoring', 'Other_Media_Generation']"
+297,R_5254TxGpUNSUHZg,,"['Generates_Buggy_Code', 'Unhelpful_or_Broken_Generations']",,,,,
+298,R_7cBGxtywajfTkQx,,"[""Generated_Code_Doesn't_Fit_Project""]",,,,,
+299,R_4PZaOnb4XvvmOS1,"['Experimenting', 'Quicker_Iterations', 'Quality_Assurance', 'Save_Time']","['Generates_Poor_Quality_Code', 'Have_to_Review_Carefully']",,,,,
+300,R_1HjCh7OeQSUUXIM,"[""Don't_Have_To_Read_Documentation"", 'Writing_Basic_Code_Snippets', 'Faster_Configuring_of_Projects', 'Provide_Reference_or_Learning']","['Hallucinations', 'Ambiguities', 'Unfounded_Confidence', ""Doesn't_Work_For_Less_Popular_Libraries"", ""Can't_Provide_Sources""]",,,,,
+302,R_3qDEMG1vp2IjSpB,,"['Unhelpful_or_Broken_Generations', 'Developer_Experience_Problems', 'Generates_Buggy_Code']",,,,,
+303,R_31yEyVpxELtUvT3,"['Offers_a_Starting_Point', 'Provide_Reference_or_Learning', 'Brainstorming', 'Generating_Test_Cases', 'Faster_Development', 'Writing_Basic_Code_Snippets']","['Must_Use_Good_Prompts', 'Trying_Different_Prompts', 'Not_Autonomous', ""Can't_Rely_On_AI_Fully"", ""AI_Doesn't_Understand_Problem"", 'Hallucinations']",,,,,
+304,R_5NTEEznBacjSNjz,"['Prototyping', 'Faster_Development']",,,,,,
+306,R_5fxxZ6yk4LLLrah,"['Generating_Test_Cases', 'Performing_Repetitive_Tasks', 'Prototyping']","['Unhelpful_or_Broken_Generations', 'Inconsistent_Results', 'No_Control_Over_Result']",,,,,
+307,R_3PoufotYSM2EfhP,,,,,,,
+308,R_5H5n7k6Kr6pI37E,,['Hurts_Developer_Skills'],,,,,"['All_Tasks', 'Decision_Making']"
+310,R_4w0k6aidVv451VY,,,,,,,
+311,R_7KlrLEcGlaQPq4U,,"['Generic_Generations', 'Generates_Buggy_Code', 'Unhelpful_or_Broken_Generations']",,,,,"['UI_Related', 'Other_Media_Generation']"
+312,R_13CPRATfdrRdTHl,,['Unhelpful_or_Broken_Generations'],,,,,
+313,R_40S6eWCMv5WHB1u,,"['Have_to_Review_Carefully', 'Context_Window']",,,,,"['Authoring', 'Other_Media_Generation']"
+314,R_5uHZfi3jXCtJHGc,,"['Unhelpful_or_Broken_Generations', 'Edge_Cases', ""Doesn't_Work_for_Complex_Issues"", ""Generated_Code_Doesn't_Fit_Project"", ""AI_Doesn't_Understand_Problem""]",,"['Sensitive_Information_or_IP', 'Legal_Risk', 'Security']",,,"['License_Compliance', 'Testing', 'Code_Reviews', 'Product_Liability']"
+315,R_3FxoYjhLekFANNh,,,,,,,
+316,R_4gLLH3NE18lcyC1,,"['Suggestions_Are_Not_Optimal', 'Trained_on_Old_Data']",,,,,
+317,R_5fkelYStfu58yYr,['Provide_Reference_or_Learning'],,,,,,
+319,R_4j2IKrSJemdDW2J,['Bad_Answer'],"['Not_Autonomous', 'Generates_Poor_Quality_Code', ""Can't_Rely_On_AI_Fully"", ""Doesn't_Work_for_Complex_Issues"", ""Doesn't_Work_For_Less_Popular_Libraries""]",,,,,['Not_Sure_or_No_Issues']
+321,R_3a9yEEqyQopL3P4,,"['Multiple_Generations', 'Inconsistent_Results', 'Trying_Different_Prompts', 'Hallucinations']",,,,,
+322,R_4okeC7EsvUgHe6I,,,,,,,
+323,R_6nZnVTRlEgWenRQ,"['Reduce_Burden_of_Context_Switching', 'Brainstorming', 'Offers_a_Starting_Point']",,,,,,['Plagiarism_and_Imitation']
+324,R_4hX4XW0vaMJxMaG,,,,,,,
+325,R_2JrZeJdtCShoQ8p,,"['Long_Prompts', ""AI_Doesn't_Understand_Problem""]",,,,,"['Not_Concerned', 'Not_Sure_or_No_Issues']"
+326,R_4KMCPi0DpK3BHjP,"[""Don't_Have_To_Read_Documentation"", 'Save_Time', 'Develop_with_Unfamiliar_Libraries']","['Unhelpful_or_Broken_Generations', 'Subtle_or_Hidden_Errors', ""Doesn't_Work_For_Usecase""]",,,,,
+327,R_6bivWRmw5y7T9DP,,"['Inconsistent_Results', 'Unhelpful_or_Broken_Generations']",,,,,['No_Response']
+328,R_7TZ5bISWdWGmTMu,,['Have_to_Review_Carefully'],,,,,
+329,R_4lxhDEyWDnaX4A9,,,,,,,
+330,R_48zHvO8UNsutm0v,"['Less_Manual_Labor', 'Faster_Development']","[""Doesn't_Work_for_Complex_Issues"", ""AI_Doesn't_Understand_Problem""]",,,,,
+332,R_749Ch5t1gF9Newx,"['Faster_Development', 'Refactoring_Code']","['Lack_of_Wider_Context', ""Doesn't_Work_for_Complex_Issues"", 'Hallucinations']",,,,,
+333,R_5FzdGgrdne5MX17,"['Generating_Test_Cases', 'Faster_Development', 'Prototyping']",,,,,,"['Misleading_Content', 'Legal_Practice']"
+334,R_4CZIcynqjH9jC2l,"['Writing_Basic_Code_Snippets', 'Documentation']","['Lack_of_Creativity', 'Produces_Redundant_or_Repetitive_Code']",,,,,
+335,R_5Cw3oXJBy3D4pNm,"['Not_Having_to_Think', 'Faster_Development']",['Must_Use_Good_Prompts'],,,,,
+336,R_6yf4IuzSoVfOPuO,,,"['Legal_Risks', 'Low_Trust']",,,,
+337,R_3dTvacvRie9hX03,"['Faster_Development', 'Understanding_Errors', 'Develop_in_Unfamiliar_Languages']","['Network_Issues','Developer_Experience_Problems']",,,,,
+338,R_3v80mLAbEkZSL2h,,,,,,,
+339,R_2rkpjE6VGZYUUMK,,,"['Still_Have_to_Check_Code', 'Prefer_to_Code_Themself']",,,,
+340,R_8OUy9zB1lOJv4R2,"['Provide_Reference_or_Learning', ""Don't_Have_To_Read_Documentation"", 'Faster_Development']","['Confused', 'Blackbox_Problem','Learning_Curve']",,,,,
+341,R_1ktfaly4gX11ILa,"['Faster_Development', 'Pair_Programming']","['Off_Topic', 'Hurts_Developer_Skills', 'Speed', 'Introduces_Code_Smells']",,,,,"['Information_Leaks', 'Generating_Malicious_Content']"
+342,R_6Je0OdMeK7Dq0QK,"['Provide_Inspiration', 'Faster_Development', 'Offers_New_Perspective_or_Insight', 'Writing_Basic_Code_Snippets']","['Off_Topic', 'Unhelpful_or_Broken_Generations']",,,,,
+343,R_5xv12c49eCsZJjr,"['Documentation', 'Generating_Test_Cases', 'Automate_Tasks', 'Standard_and_Consistent_Code', 'Create_Incident_Playbooks', 'Optimize_Solutions']","[""AI_Doesn't_Understand_Problem"", 'Domain_Issues', 'Not_for_Critical_Systems', 'Subtle_or_Hidden_Errors']",,,,,
+345,R_6fIyISHeg1c9Cok,"['Provide_Reference_or_Learning', 'Architecture_and_System_Design', 'Faster_Development', 'Auto_Completion', 'Develop_with_Unfamiliar_Libraries', 'Writing_SQL_Queries']",['Unhelpful_or_Broken_Generations'],,,,,
+346,R_5dReYL0dERfYDut,,,,,,,
+347,R_4w2tbmzim90BGYp,"['Debugging', 'Faster_Development']","['Needlessly_Complex_Solution', 'Subtle_or_Hidden_Errors']",,,,,"['Security_Issues', 'Liability_for_Generated_Bugs_and_Defects']"
+348,R_7EKEci1xZPAaOTn,,,,,,,
+350,R_3kdl1bJOHvTLSZb,"['Provide_Reference_or_Learning', 'Generating_Test_Cases', 'Less_Typing', 'Faster_Development', 'Auto_Completion']",,,,,,
+352,R_6sho1j26EbolGwl,,,,,,,"['Testing', 'Reverse_Engineering', 'Hacking', 'Jail_Breaking', 'Continuous_Integration']"
+353,R_4ZblWvpS4ed90bf,,,,,,,
+354,R_64Gcw0wH8nzsSH5,"['Performing_Repetitive_Tasks', 'Develop_with_Unfamiliar_Libraries', 'Writing_Basic_Code_Snippets']","['Context_Window', ""AI_Doesn't_Understand_Problem""]",,,,,
+355,R_1PidrV0HfYpzUOZ,"['Writing_Basic_Code_Snippets', 'Documentation', 'Faster_Development']","['Must_Be_Able_to_Verify', 'Time_Consuming_to_Fix_Code', 'No_Way_to_Partially_Accept_Solutions']",,,,,
+356,R_4RPoAgUYQI5Phpx,,,,,,,
+361,R_7ce3tD77jUmlayB,"['Fewer_Bugs', 'Debugging', 'Faster_Development']","['Multiple_Generations', 'Trying_Different_Prompts']",,,,,
+362,R_41LyqzyPGvtXgHX,,['Outdated_Use_of_Packages'],,,,,"['Generating_Synthetic_Data', 'Other_Media_Generation']"
+363,R_6qwcv5uM7LJNUs4,"['Offers_a_Starting_Point', 'Provide_Reference_or_Learning','Lowers_Barrier_to_Entry']","[""Doesn't_Work_for_Complex_Issues"", 'Context_Window']",,,,,['Bad_Answer']
+364,R_1dNfQ69fPb2tJPG,"['Allows_to_Shift_Focus', 'Faster_Development', 'Experimenting', 'Increased_Productivity', 'Documentation', 'Prototyping', 'Writing_Basic_Code_Snippets']","['Have_to_Review_Carefully', 'Unhelpful_or_Broken_Generations', 'Security', 'Lack_of_Wider_Context', ""AI_Doesn't_Understand_Problem""]",,,,,
+365,R_62A7f4BTGk9kEYz,,,,,,,
+368,R_4XlPuFbMoVBVUSB,"['Faster_Development', 'Fewer_Bugs']",,,,,,
+369,R_4w6OaCqV5oMb9MZ,,"[""Doesn't_Work_For_Usecase""]",,,,,
+370,R_137kvbHE0E28uK5,,,,,,,
+371,R_2mDBl9cSejHhDIU,,"['Lack_of_Wider_Context', ""Doesn't_Work_for_Complex_Issues""]",,,,,
+372,R_7L73o8RKHtSfSpo,"['Provide_Reference_or_Learning', 'Develop_with_Unfamiliar_Libraries', 'Faster_Development']","['Context_Window', 'Problems_That_Span_Files', 'Lack_of_Wider_Context']",,,,,
+375,R_6rGSQFP2RcbfgSt,"['Brainstorming', 'Debugging', 'Quicker_Iterations']","['Unhelpful_or_Broken_Generations', 'Outdated_Use_of_Packages', 'Context_Window', 'Generates_Buggy_Code']",,,,,
+376,R_7ycVL5VJZZT7d85,"['Performing_Repetitive_Tasks', 'Auto_Completion', 'Generating_Test_Cases', 'Faster_Development']",,,,,,"['Other_Media_Generation', 'Attribution', 'Plagiarism_and_Imitation', 'All_Tasks', 'The_Law_Will_Change']"
+377,R_4NmESVvVDSrry6J,,,,,,,
+378,R_4r698tOBu5NaYPw,"['Refactoring_Code', 'Optimize_Solutions', 'Provide_Reference_or_Learning', 'Increased_Understanding']","['Trained_on_Old_Data', 'Must_Use_Good_Prompts']",,,,,['Jail_Breaking_LLMs']
+379,R_4YnQkDRYSNWZNlk,,,,,,,['Legal_Practice']
+380,R_46fevkJTFsTl41Q,"['Less_Manual_Labor', 'Faster_Development']","['Context_Window', 'Edge_Cases']",,,,,"['Generation_of_Legal_Documents', 'Generating_Open_Source_Licenses']"
+382,R_71FYCfvRX18XQ5v,,,"['Not_Mature_Enough', 'No_Usecase_or_Not_Useful']",,,,
+386,R_4BesO1pgzRCbCbn,,,,,,,
+387,R_15YLZTZGy7l1j1w,"['Writing_Basic_Code_Snippets', 'Develop_with_Unfamiliar_Libraries']",,,,,,
+388,R_4bxj1jxSWWmZ2UN,"['Prototyping','Accuracy']","['Generates_Buggy_Code', 'Trying_Different_Prompts', 'Not_Good_at_UI', 'Unhelpful_or_Broken_Generations','Multiple_Generations']",,,,,
+390,R_5JnV0stuqiFq0Lv,"['Writing_Basic_Code_Snippets', 'Faster_Development']",['Trained_on_Old_Data'],,,,,
+391,R_7wAmSEJdrCA8Me7,"['Generating_Test_Cases', 'Error_Detection', 'Faster_Development']","[""Doesn't_Work_For_Less_Popular_Libraries"", 'Forced_to_Refactor', 'Generates_Buggy_Code']",,,,,"['Information_Leaks', 'Plagiarism_and_Imitation']"
+392,R_6JDgHXlhmGGxzi0,,"['Trained_on_Old_Data', 'Lack_of_Wider_Context']",,,,,
+393,R_6BaFEHWDadOpbJ2,,,"['Prefer_to_Code_Themself', 'Takes_the_Fun_Out_of_Coding', 'Not_Good_for_Complex_Problems', ""Doesn't_Work_For_Use_Case""]",,,,
+394,R_3exy3sn9bBdIdbo,"['Faster_Development', 'Develop_in_Unfamiliar_Languages']","['Hurts_Developer_Skills', 'Inconsistent_Results', 'Threat_to_Learning','Unhelpful_or_Broken_Generations']",,,,,"['Other_Media_Generation', 'Authoring', 'Not_Sure_or_No_Issues']"
+395,R_26Qo0ZsnJ1KAQSZ,"['Provide_Reference_or_Learning', 'Writing_Basic_Code_Snippets', 'Documentation']",,,,,,
+397,R_44f9Cwu4xbkkKZw,,"['Multiple_Generations', 'Unhelpful_or_Broken_Generations', 'Trying_Different_Prompts']",,,,,"['Citing_of_Sources', 'Information_Leaks', 'Attribution']"
+398,R_1KDMLvQ3ycHjaQF,"['Writing_Basic_Code_Snippets', 'Faster_Development']","['Not_Autonomous', 'Unhelpful_or_Broken_Generations']",,,,,"['Security_Issues', 'Liability_for_Generated_Bugs_and_Defects']"
+399,R_79uk8KEURoU6Klj,,,,,,,"['Chatbots', 'Generating_Malicious_Content']"
+401,R_4l9ogcr9kE3W2zw,,,,,,,"['Generating_Malicious_Content', 'Other_Media_Generation']"
+403,R_5LqlHjseVClLcTQ,,,,,,,
+404,R_200QZgzKTg1HT7F,"['Architecture_and_System_Design', 'Explain_Concepts', 'Helps_Solve_Complex_Problems']","['Have_to_Review_Carefully', 'Needlessly_Complex_Solution']",,,,,
+405,R_1pnvoOVwRoZdttS,,['Not_Autonomous'],,,,,"['All_Tasks', 'Other_Media_Generation', 'UI_Related']"
+406,R_7mfRSdVXD8wfx78,,,,,,,"['All_Tasks', 'Plagiarism_and_Imitation', 'Testing', 'Documentation']"
+407,R_1hPlK7ffCFbaNmF,,['Not_Autonomous'],,,,,
+408,R_7tuseVJDgevwUll,"['Detection_of_Edge_Cases', 'Generating_Test_Cases', 'Prototyping', ""Don't_Have_To_Read_Documentation""]","['Circular_Conversations', 'Suggestions_Are_Not_Optimal', 'Outdated_Use_of_Packages']",,,,,"['UI_Related', 'Generating_Copyrighted_Content', 'Plagiarism_and_Imitation', 'Reverse_Engineering']"
+409,R_3tLgZECZXE3wIP7,"['Increased_Understanding', 'Writing_Basic_Code_Snippets', 'Brainstorming']","['Context_Window', 'Must_Use_Good_Prompts','Unhelpful_or_Broken_Generations']",,,,,"['Generating_Copyrighted_Content', 'Architecture_Design']"
+410,R_7q1Epa9Mq2cv77n,"['Increased_Understanding', 'Writing_Basic_Code_Snippets']","['Unhelpful_or_Broken_Generations', 'Unfounded_Confidence', 'Hallucinations']",,,,,
+411,R_5JIyjh3R3wzMO0R,"['Provide_Inspiration', 'Faster_Development', 'Offers_New_Perspective_or_Insight', 'Develop_with_Unfamiliar_Libraries', 'Writing_Basic_Code_Snippets']","['Trained_on_Old_Data', 'Unhelpful_or_Broken_Generations', ""Doesn't_Follow_Best_Practices""]",,,,,"['Other_Media_Generation', 'Impersonation', 'Generating_Malicious_Content', 'SEO_Hacking']"
+412,R_5yFFLYWxeiaBCnv,,,,,,,
+413,R_3rNSomTZLc2O9Kb,"['Getting_Alternatives', 'Develop_with_Unfamiliar_Libraries', 'Faster_Development', 'Provide_Reference_or_Learning']","['Unhelpful_or_Broken_Generations', 'Hardware_Related_Issues']",,,,,
+414,R_3do8hX62iYJR1Bl,"['Understanding_Use_Cases', 'Debugging', 'Develop_in_Unfamiliar_Languages', 'Provide_Reference_or_Learning']","['Not_Autonomous', ""Doesn't_Work_for_Complex_Issues""]",,,,,"['Reverse_Engineering', 'Debugging']"
+415,R_1oAAFONC1iG32s0,"['Can_Explain_or_Summarize_Code', 'Faster_Development']",,,,,,
+416,R_6bPxD6liodnLofD,['Faster_Development'],,,,,,"['All_Tasks', 'Lawyers_Will_Decide']"
+418,R_4IYkHbPvVd29aKB,"['Domain_Logic_Support', 'Like_a_Secretary']",,,,,,['Lawyers_Will_Decide']
+419,R_4DoJHSiD9VgZwen,,,,,,,
+420,R_4lfpz5LiVuugceu,"['Faster_Development','Experimenting']","[""Doesn't_Follow_Instructions"", 'Unhelpful_or_Broken_Generations']",,,,,
+422,R_4wtYTYCpvcWNf8i,"['Writing_Basic_Code_Snippets', 'Offers_New_Perspective_or_Insight', 'Auto_Completion']",,,,,,['No_Response']
+423,R_4E9XXIokRsRygH1,"['Provide_Inspiration', 'Offers_New_Perspective_or_Insight']",,,,,,
+424,R_533fM261pwAoZM8,"['Reproducibility', 'Faster_Development']",,,,,,['Break_Standards_and_Regulations']
+426,R_4EvD6UU09jMoP6x,"['Develop_in_Unfamiliar_Languages', 'Develop_with_Unfamiliar_Libraries']",['Forced_to_Refactor'],,,,,
+427,R_6vl97xmbWd1VZkd,,,,,,,['Generating_Copyrighted_Content']
+428,R_46Wkp16cHxv2FCF,"['Auto_Completion', 'Faster_Development']",,,,,,
+429,R_7iqYejCebsk5bDV,,"[""Doesn't_Follow_Instructions"", 'Unhelpful_or_Broken_Generations']",,,,,
+430,R_8fl7kLh03zVefM5,"['Safe_and_Secure', 'Helps_Solve_Complex_Problems', 'Improve_Code_Quality', 'Faster_Development']","['Not_Smart_Enough', 'Speed']",,,,,
+431,R_7feOWwn5NkFOKpx,"['Automate_Tasks', 'Performing_Repetitive_Tasks', 'Writing_Basic_Code_Snippets', 'Faster_Development']","['Have_to_Review_Carefully', ""Can't_Rely_On_AI_Fully"", 'Security', 'Generates_Buggy_Code']",,,,,"['Ownership', 'Legal_Issues_Surrounding_Training_Data', 'All_Tasks', 'Other_Media_Generation']"
+432,R_61AnPH71wlj0uMV,,,,,,,['Infrastructure_as_Code']
+433,R_7X7eYuRk1zCXvww,"['Easy_to_Use', 'Develop_in_Unfamiliar_Languages', 'Develop_with_Unfamiliar_Libraries']",,,,,,"['Legal_Issues_Surrounding_Training_Data', 'Other_Media_Generation']"
+434,R_4JFx7Gzcaw8zpoA,"['Less_Manual_Labor', 'Writing_Basic_Code_Snippets']",,,,,,"['Other_Media_Generation', 'Testing', 'Generating_Synthetic_Data']"
+437,R_4esYWjrfGOS9qjQ,['Developer_Experience'],"['Forced_to_Refactor', 'Generates_Buggy_Code']",,,,,
+438,R_7hMy1z7udmfyNEh,,,,,,,
+439,R_2nwlpaqEDyGqHHI,"['Debugging', 'Increased_Understanding', 'Faster_Development']",,,,,,
+440,R_3AMl9dRXbDFXaGl,"['Faster_Development', 'Modularity']",,,,,,
+441,R_2qpOVd8L1BKa0zC,,"['Generates_Poor_Quality_Code', 'Unhelpful_or_Broken_Generations']",,,,,
+442,R_3LojMKWXGQ9R4LI,,,,,,,
+443,R_3JQ5cSLEcfPncPS,['Faster_Development'],,,,,,"['Authoring', 'Education', 'Chatbots']"
+444,R_3LMehr39Oargj0J,['Faster_Development'],,,,,,
+445,R_7Iv27c0mXwbV1br,,,,,,,"['Authoring', 'Other_Media_Generation']"
+447,R_1f3z2R1zFNutYeX,,,,,,,
+448,R_4GII1qMZwO4FoXQ,['Can_Explain_or_Summarize_Code'],"['Must_Use_Good_Prompts', 'Suggestions_Are_Not_Optimal']",,,,,
+449,R_33pxM30BXm6R41t,"[""Don't_Have_To_Read_Documentation"", 'Allows_to_Shift_Focus', 'Faster_Development']",,,,,,
+450,R_5n71tExhnOjxdU9,,,,,,,
+451,R_7a8YGuvOEnu19sh,"['Library_Selection', 'Getting_Alternatives', 'Faster_Development']","[""AI_Doesn't_Understand_Problem"", ""Doesn't_Follow_Best_Practices"", 'Generates_Buggy_Code']",,,,,"['Legal_Practice', 'Other_Media_Generation']"
+452,R_3XdGOONRXjb3GT7,['Can_Explain_or_Summarize_Code'],"['Not_Autonomous', 'Inconsistent_Results']",,,,,
+454,R_3bUc8YOSbYFTu4a,"['Getting_Alternatives', 'Improve_Code_Quality', 'Helps_when_Stuck']","[""Doesn't_Follow_Instructions"", 'Availability']",,,,,
+455,R_3IR8fJPI7ZY7yhH,['Offers_a_Starting_Point'],"['Not_Trained_on_Most_Recent_Tech', 'Hallucinations']",,,,,"['Configuration', 'Infrastructure_as_Code']"
+456,R_4Gp1hKiSeD29LZA,"['Detection_of_Edge_Cases', ""Don't_Have_To_Read_Documentation""]","['Hallucinations', 'Context_Window', 'Censored', 'Must_Use_Good_Prompts']",,,,,"['Liability_For_AI_Agent_Actions', 'Security_Issues', 'Prompt_Injection_Attacks']"
+457,R_6GCwKPgBI6Hwzjd,"['Allows_to_Shift_Focus', 'Documentation']","['Have_to_Review_Carefully', 'No_Gaps']",,,,,"['Patents', 'Prototyping', 'UI_Related', 'Architecture_Design']"
+458,R_4EFIJK1R54kuvtS,,,,,,,
+460,R_41XF82FV0XctlJm,"['Generating_Test_Cases', 'Remember_Features_of_Code']","['Not_Autonomous', ""Doesn't_Work_for_Complex_Issues"", 'Unhelpful_or_Broken_Generations']",,,,,"['Generating_Synthetic_Data', 'Use_of_Input_to_Train_Model']"
+461,R_6Dvaqt2tk1eipkO,"['Writing_Basic_Code_Snippets', 'Offers_a_Starting_Point', 'Save_Time', 'Allows_to_Shift_Focus']",,,,,,
+464,R_2QDGprLkqZZLPf5,,,"[""Haven't_Incorporated_Yet""]",,,,
+465,R_1zvkfjHdwllCsKf,"['Provide_Reference_or_Learning', 'Prototyping']","[""Can't_Rely_On_AI_Fully"", ""AI_Doesn't_Understand_Problem""]",,,,,['Documentation']
+466,R_3GnQRoojDhJPgRj,"['Improve_Code_Quality', 'Workflow_Improvements', 'Faster_Development']","['Time_Consuming_to_Prompt', 'Context_Window', 'Must_Use_Good_Prompts']",,,,,
+468,R_4lJVl3N8tlor293,,,,,,,
+469,R_4SqsSA1bJclqM8X,,,,,,,"['Attribution', 'Legal_Issues_Surrounding_Training_Data']"
+475,R_4OGG5tHz4Y2VaVY,['Faster_Development'],,,,,,
+478,R_3OcVnoudxqakaV3,"['Allows_to_Shift_Focus', 'Generating_Test_Cases', 'Faster_Development','Generating_Test_Data']","['Lack_of_Wider_Context', 'Forced_to_Refactor','Blind_Trust']",,,,,
+481,R_1dg3Fnv39tpgL8O,"['Faster_Development', 'Provide_Reference_or_Learning']","['Young_Technology', ""Can't_Rely_On_AI_Fully"", ""AI_Doesn't_Understand_Problem"", 'Must_Use_Good_Prompts']",,,,,
+482,R_5TATkDR7eXdJseG,,"['Unhelpful_or_Broken_Generations', 'Lack_of_Wider_Context']",,,,,
+486,R_7pKLXyW0s14hlZi,,,,,,,
+488,R_7Gvt2I8psvWoAed,,"['Context_Window', 'Outdated_Use_of_Packages', 'Generated_Code_Is_Deprecated', ""Doesn't_Work_For_Less_Popular_Libraries""]",,,,,
+489,R_7InPJJfVyRqUsoq,,,,,,,"['Other_Media_Generation', 'Ownership', 'Generating_Malicious_Content']"
+490,R_4R1WrkEpWgj8ZQD,['Bad_Answer'],['Context_Window'],,,,,
+491,R_7ILWSrOjIfu4rId,,,,,,,
+492,R_4mriRAPjL3qj0rf,"['Debugging', 'Porting_or_Translating_Code', 'Documentation']",,,,,,
+494,R_8WGxKwwRhZNQvRA,"['Debugging', 'Faster_Development', 'Offers_New_Perspective_or_Insight', 'Prototyping']","[""Doesn't_Work_for_Complex_Issues"", 'Not_Good_with_Math', 'Unhelpful_or_Broken_Generations']",,,,,['Liability_for_Generated_Bugs_and_Defects']
+495,R_4x8kNivvmeCzIdz,"['Provide_Reference_or_Learning', 'Save_Time']","[""AI_Doesn't_Understand_Problem""]",,,,,
+496,R_8tDSbpT5Dm3ucHD,"['Debugging', 'Develop_in_Unfamiliar_Languages', 'Offers_New_Perspective_or_Insight']",,,,,,
+497,R_6ON4PxAcqVDHuAj,,,,,,,"['Legal_Issues_Surrounding_Training_Data', 'Bias', 'Using_Code_Correctly']"
+498,R_31VMyFdmqdIoM7L,"['Error_Detection', 'Refactoring_Code']",,,,,,
+501,R_7oXgwBFl4xPbGTL,"['Offers_a_Starting_Point', 'Writing_Basic_Code_Snippets', 'Develop_in_Unfamiliar_Languages', 'Develop_with_Unfamiliar_Libraries']","[""Doesn't_Work_for_Complex_Issues"", 'Unfounded_Confidence', ""Doesn't_Follow_Instructions""]",,,,,"['Data_Privacy', 'Break_Standards_and_Regulations']"
+502,R_4xbbOMQvaQnAKoF,,"['Context_Window', ""Models_Don't_Learn""]",,,,,
+503,R_5QYGgRgb2Wx6nOU,,,,,,,
+505,R_4rbwjCu5OvT9OyR,['Writing_Basic_Code_Snippets'],"['Formatting_Issues', 'Unhelpful_or_Broken_Generations']",,,,,
+506,R_4Ns6gJRbazZiWnD,,['Issues_with_Dimensionality'],,,,,"['Product_Liability', 'Not_Concerned']"
+507,R_7t4e4qpESNVu1LI,"['Provide_Reference_or_Learning', 'Faster_Development', 'Develop_in_Unfamiliar_Languages', 'Performing_Repetitive_Tasks', 'Develop_with_Unfamiliar_Libraries', 'Quickly_Move_From_Idea_to_Product', 'Documentation']","[""Doesn't_Follow_Instructions"", 'Context_Window', 'Circular_Conversations']",,,,,"['Use_of_Input_to_Train_Model', 'Use_in_Critical_Systems', 'Legal_Issues_Surrounding_Training_Data']"
+508,R_6pm5HdMxv3drGRI,"['Fast_Schema_and_Requirements', 'Faster_Development']",['Forced_to_Refactor'],,,,,"['Generating_Substitutes', 'UI_Related']"
+513,R_4y2RqGe4KcEwxbT,,"[""AI_Doesn't_Understand_Problem"", 'Lack_of_Wider_Context']",,,,,
+514,R_2oGGI22T1WSdW6h,['Provide_Reference_or_Learning'],"['Unhelpful_or_Broken_Generations', ""Can't_Rely_On_AI_Fully"", 'Hallucinations']",,,,,"['Generating_Malicious_Content', 'Other_Media_Generation']"
+515,R_49mm9nKt5FQAU3D,['Faster_Development'],"['Keeping_AI_Tools_Updated', 'Developer_Experience_Problems']",,,,,
+516,R_1ORfk2mMhJhn1PH,"['Standard_and_Consistent_Code', 'Auto_Completion', 'Faster_Development']",,,,,,
+518,R_7DZEBTnq2ZwGwny,,"['Generates_Poor_Quality_Code', 'Forced_to_Refactor', 'Have_to_Review_Carefully']",,,,,"['Not_Sure_or_No_Issues', 'Other_Media_Generation']"
+519,R_54uzeJwuyOcTKnh,"['Testing', 'Faster_Development', 'Making_UI', 'Writing_Basic_Code_Snippets', 'Prototyping']","['Intrusive', 'Autocomplete_Issues']",,,,,
+520,R_5PI9WolDYFOE4bZ,,,,,,,['Product_Liability']
+521,R_3jwAcNYCizGQJDr,,,,,,,
+523,R_1Pqd6jUcl3oWZxF,"['Faster_Development', 'Depends_on_the_Language']","[""Can't_Provide_Sources"", ""Doesn't_Work_For_Less_Popular_Libraries"", 'Licensing_Problems', 'Generates_Poor_Quality_Code']",,,,,"['AI_Security_Audits', 'Code_Reviews', 'Issue_Triage']"
+524,R_74bILQR0Lrwyxi7,,,['Not_Enough_Technical_Knowledge'],,,,['Legal_Issues_Surrounding_Training_Data']
+525,R_5ICODtAM6ZC0mkh,"['Provide_Reference_or_Learning', 'Faster_Development']","['Generates_Buggy_Code', 'Unhelpful_or_Broken_Generations']",,,,,['Plagiarism_and_Imitation']
+526,R_6DUo3WdzKCOZvXa,['Writing_Basic_Code_Snippets'],"['Hallucinations', 'Not_Trained_on_Most_Recent_Tech', 'Cost']",,,,,"['Unemployment', 'Other_Media_Generation']"
+527,R_1prs3ny0dmHS9fz,,"['Generates_Buggy_Code', 'Unhelpful_or_Broken_Generations', 'Have_to_Review_Carefully']",,,,,
+528,R_4K0Mii31vDvqdUZ,,,"['Incorrect_Code_Generations', 'Legal_Risks', 'Low_Trust']",,,,
+529,R_4gUYWMLgMCrZul4,,,"['Employer', 'Sending_Code_to_Remote']",,,,['Testing']
+530,R_6rNkxl5KNYiEXi5,"['Less_Manual_Labor', 'Develop_in_Unfamiliar_Languages', 'Develop_with_Unfamiliar_Libraries', 'Faster_Development']",,,,,,
+532,R_4hMcbk4RYyCt9dc,['Faster_Development'],,,,,,
+534,R_1NijKHyLffH44z7,"['Provide_Reference_or_Learning', 'Faster_Development', 'Develop_with_Unfamiliar_Libraries']","['Hurts_Developer_Skills', 'Generates_Buggy_Code']",,,,,
+536,R_4pVZPZz6CBYz7od,"['Optimize_Solutions', 'Improve_Code_Quality', 'Faster_Development', 'Fewer_Bugs']","['Not_Good_at_Documentation', 'Suggestions_Are_Not_Optimal', 'Generates_Poor_Quality_Code', 'Domain_Issues']",,,,,"['Product_Liability', 'Bias', 'Ownership', 'Data_Privacy', 'Security_Issues', 'Break_Standards_and_Regulations', 'Transparency']"
+540,R_4DCpHV3cGQfsaMB,,,"[""Doesn't_Work_For_Use_Case""]",,,,"['Debugging', 'Process_Management', 'Plagiarism_and_Imitation', 'Framework_Barriers']"
+542,R_20pjroAJliOC9lO,"['Offers_a_Starting_Point', 'Workflow_Improvements', 'Faster_Development']","[""Doesn't_Work_for_Complex_Issues"", 'Formatting_Issues', 'Outdated_Use_of_Packages', 'Generated_Code_Is_Deprecated', 'Lack_of_Wider_Context']",,,,,"['Plagiarism_and_Imitation', 'Other_Media_Generation']"
+543,R_4o0zJ4hEDxfSkSZ,"['Understanding_Use_Cases', 'Faster_Development']","['Trying_Different_Prompts', 'Unhelpful_or_Broken_Generations', 'Outdated_Use_of_Packages', 'Produces_Redundant_or_Repetitive_Code']",,,,,
+545,R_4KkyWV6jWje6gFR,['Faster_Development'],['Unhelpful_or_Broken_Generations'],,,,,
+546,R_4HOnsX0JorUYv3g,,"['Blackbox_Problem', 'Problems_That_Span_Files', 'Backtracking', 'Subtle_or_Hidden_Errors']",,,,,"['Product_Liability', 'Legal_Issues_Surrounding_Training_Data', 'Data_Privacy', 'License_Compliance', 'Generating_Synthetic_Data']"
+547,R_4TEL2ADfLus212Z,,,,,,,
+550,R_1DuxnABcHCqQP9A,,"['Suggestions_Are_Not_Optimal', 'Generates_Poor_Quality_Code']",,,,,"['Legal_Issues_Surrounding_Training_Data', 'Data_Privacy', 'Security_Issues']"
+553,R_4tBs7mxMvVV6Pjr,,,,,,,
+557,R_3aaC7BfJkb6LFFp,"['Faster_Development', 'Writing_Basic_Code_Snippets', 'Provide_Reference_or_Learning']",['Unhelpful_or_Broken_Generations'],,,,,
+559,R_4GjKYns0v1x184R,,,,,,,['Data_Privacy']
+561,R_4QARtHCh9ciKdBK,"['Debugging', 'Can_Explain_or_Summarize_Code', 'Improve_Code_Quality', 'Provide_Reference_or_Learning']",['Unhelpful_or_Broken_Generations'],,,,,
+563,R_2dXP9orVPQ0idUX,"['Workflow_Improvements', 'Faster_Development', 'Fewer_Bugs']",['Unhelpful_or_Broken_Generations'],,,,,
+566,R_43ixHz99Qt4ElKF,"['Making_UI', 'Faster_Development', 'Brainstorming', 'Learn_Best_Practices', 'Auto_Completion', 'Prototyping']",['Context_Window'],,,,,
+568,R_6Xi6Z62StggWgMN,"['Performing_Repetitive_Tasks', 'Faster_Development']",,,,,,
+569,R_2oFozS5SMCsmuhE,,,"['Legal_Risks', 'Bad_Publicity']",,,,"['Human_Resources', 'Bias']"
+571,R_67rkSxbAwY209ag,,"['Unhelpful_or_Broken_Generations', 'Off_Topic']",,,,,"['Plagiarism_and_Imitation', 'Other_Media_Generation']"
+573,R_7VLbYOvcMvcir3b,"['Prototyping', 'Debugging']",,,,,,
+575,R_5QzvGz3ibSeUnbG,,,,,,,
+578,R_23lMCALFXkmrP2r,,,,,,,
+579,R_1QAGbnemBHIEf7P,,,,,,,
+582,R_5CQhYrbfijWu0St,,,,,,,
+583,R_4ffcfmgNZ1yBHbw,"['Generating_Test_Cases', 'Improve_Code_Quality', 'Learn_Best_Practices']","['Reasoning_Skills', 'Hallucinations', 'Privacy']",,,,,"['Data_Privacy', 'Information_Leaks']"
+584,R_8NrzlOy6lWA7gOl,,,,,,,
+585,R_6yM3lHUlK0UTLoJ,"['Getting_Alternatives', 'Improve_Code_Quality']","['Context_Window', ""Models_Don't_Learn"", 'Lack_of_Wider_Context']",,,,,['Information_Leaks']
+586,R_2CjZk9zwNuBWIQW,"['Provide_Reference_or_Learning', 'Faster_Development', 'Detection_of_Edge_Cases']",,,,,,
+587,R_6fO8iLKh75mLJzL,"['Faster_Development', 'Writing_Basic_Code_Snippets', 'Develop_with_Unfamiliar_Libraries']",,,,,,['Product_Liability']
+591,R_6OMzRLnt1DQwLex,"['Mistake_and_Typo_Correction', 'Getting_Alternatives', 'Writing_Basic_Code_Snippets', 'Debugging']",,,,,,
+593,R_6PydpwjQLIfEZYl,"['Offers_a_Starting_Point', 'Faster_Development','Gives_Advice']",['Generates_Poor_Quality_Code'],,,,,"['Lawyers_Will_Decide', 'All_Tasks']"
+594,R_6GJtrflF1Jdhc02,,,,,,,
+595,R_6unshN99vrwyAcV,"['Architecture_and_System_Design', 'Offers_a_Starting_Point']",,,,,,
+597,R_43VulejTEdirFWS,"['Provide_Reference_or_Learning', 'Gives_Advice', 'Faster_Development', 'Documentation', 'Writing_Basic_Code_Snippets']",,,,,,
+599,R_4JeBmsS9RCrqA1T,"['Writing_Basic_Code_Snippets', 'Auto_Completion', ""Don't_Have_To_Read_Documentation"", 'Faster_Development']","['Outdated_Use_of_Packages', 'Subtle_or_Hidden_Errors']",,,,,['Product_Liability']
+601,R_32sDjCIdota2e2Z,,"[""Doesn't_Work_for_Complex_Issues"", 'Context_Window']",,,,,['Product_Design']
+603,R_4E6TRHZUCfWb381,,"['Off_Topic', 'Unhelpful_or_Broken_Generations']",,,,,
+604,R_1pKW6HDJpc78hpq,,,['Alternatives_are_Sufficient'],,,,['Human_Resources']
+607,R_4jcZgcKUlSaKW96,"['Improve_Code_Quality', 'Writing_Regex', ""Don't_Have_To_Read_Documentation"", 'Faster_Development']",['Unhelpful_or_Broken_Generations'],,,,,['Toxic_Content']
+609,R_3HjnpFGLvvb5T0x,"['Understanding_Errors', 'Debugging', 'Faster_Development']","['Formatting_Issues', 'Generates_Buggy_Code']",,,,,
+613,R_4Dp5pCupayRhMBP,,,,,,,
+614,R_4EalTsJ9oD4eGXn,,,,,,,
+617,R_41YDho0g0DHLnAC,"['Faster_Development', 'Writing_Basic_Code_Snippets', 'Develop_in_Unfamiliar_Languages']","['Hard_to_Understand_Generated_Code', 'Lack_of_Wider_Context','Blind_Trust']",,,,,"['Plagiarism_and_Imitation', 'Other_Media_Generation', 'UI_Related']"
+618,R_7PpLPrybiKbKiB6,,,"['Prefer_to_Code_Themself', 'Intrusive', ""Doesn't_Add_Much_Value"", ""Doesn't_Want_to_Get_Rusty""]",,,,
+619,R_3KPNnKjwKlHMuFb,"['Built-in-Algorithms', 'Provide_Reference_or_Learning', 'Writing_Basic_Code_Snippets']","[""Doesn't_Work_for_Complex_Issues"", ""Can't_Automate_End_to_End_Process""]",,,,,
+620,R_3UX8gjsneFhwMne,,,,,,,
+622,R_2B7Ap0eo4OVGqpb,"['Provide_Reference_or_Learning', 'Improve_Code_Quality', 'Workflow_Improvements', 'Refactoring_Code', 'Faster_Development']","['Not_Trained_on_Most_Recent_Tech', ""Doesn't_Work_For_Usecase""]",,,,,"['Architecture_Design', 'Testing']"
+623,R_2T09zQ9pkMCHRxD,,,"['Sending_Code_to_Remote', 'Not_Mature_Enough']",,,,"['Legal_Issues_Surrounding_Training_Data', 'Testing']"
+626,R_6fftPmLP9xbFjPC,"['Mistake_and_Typo_Correction', 'Getting_Alternatives', 'Debugging', 'Improve_Code_Quality', 'Offers_New_Perspective_or_Insight', 'Provide_Reference_or_Learning', 'Faster_Development', 'Quickly_Move_From_Idea_to_Product']","['Context_Window', 'Not_Trained_on_Most_Recent_Tech']",,,,,['Content_Copyrights']
+627,R_7rJWENAqRYs754J,"['Implementing_Algorithms', 'Develop_in_Unfamiliar_Languages']",,,,,,['Use_in_Critical_Systems']
+631,R_1ui1cwbjwQtVTnb,"['Provide_Reference_or_Learning', 'Faster_Development', 'Accuracy']",['Trained_on_Old_Data'],,,,,
+638,R_44PponaKIZa3qrQ,"['Mistake_and_Typo_Correction', 'Debugging', 'Increased_Productivity']",,,,,,['Legal_Issues_Surrounding_Training_Data']
+639,R_1Xh8HLLmpQhOjXU,,,,,,,
+641,R_4Nj814pswpdEBah,,['Must_Use_Good_Prompts'],,,,,"['Entertainment', 'Other_Media_Generation']"
+642,R_3LiM2DCiLMuJiUD,,"['Developer_Experience_Problems', 'Availability', 'Domain_Issues', 'Poorly_Trained_Model', 'Hallucinations', 'Ethical_Issues']",,"['Slow_to_Adopt', ""Employer_Doesn't_Understand_Benefits""]",,,"['Legal_Issues_Surrounding_Training_Data', 'License_Compliance']"
+646,R_1MGrHn1HTPfIJ57,,,,,,,
+651,R_7QM06fwhZZiuH2H,,,,,,,"[""Generative_Models_Don't_Lead_To_Legal_Issues""]"
+652,R_5tUsEUumV010e89,"['Standard_and_Consistent_Code', 'Documentation', 'Improve_Code_Quality']",,,,,,
+653,R_41swvU7ZU3FTggv,"['Provide_Reference_or_Learning', 'Faster_Development', 'Develop_with_Unfamiliar_Libraries']","['Not_Trained_on_Most_Recent_Tech', 'Unhelpful_or_Broken_Generations']",,,,,
+654,R_70OofdZOvX2SzmR,"['Prototyping', 'Provide_Reference_or_Learning', 'Develop_with_Unfamiliar_Libraries']","['Niche_Solutions', 'Breaks_Code_on_Refactor', ""Doesn't_Work_For_Less_Popular_Libraries""]",,,,,
+655,R_63iltWKtLWwvFfP,,"['Confused', 'Learning_Curve', 'Have_to_Review_Carefully']",,,,,
+656,R_7S6xldcTdP19893,,,,,,,
+657,R_4OMOmZWSfw6Dx9O,,,,,,,
+658,R_6PTC50zxbq35Qcs,"['Faster_Development', 'Writing_Basic_Code_Snippets', 'Offers_New_Perspective_or_Insight']","['Have_to_Review_Carefully', 'Hallucinations']",,,,,"['Generation_of_Issues', 'Issue_Tracking', 'Attribution']"
+659,R_6KO3mitGFLP2GzW,"['Workflow_Improvements', 'Faster_Development', 'Writing_Basic_Code_Snippets']",['Not_Trained_on_Most_Recent_Tech'],,,,,['No_Response']
+661,R_4xNtkyYxqka6scV,,,,,,,
+665,R_72nb3D7kz67FaBi,"['Develop_with_Unfamiliar_Libraries', 'Provide_Reference_or_Learning']",,,,,,"['Generating_Specifications', 'Break_Standards_and_Regulations']"
+666,R_43wnF7YKE1Zhlyk,"['Offers_New_Perspective_or_Insight', 'Learn_Best_Practices']",,,,,,
+667,R_46fIIYyIbbDgoEx,,,,,,,
+669,R_4gTuqgYqPhH675E,"['Learn_Best_Practices', 'Improve_Code_Quality']","[""AI_Doesn't_Understand_Problem"", ""Doesn't_Work_For_Less_Popular_Libraries""]",,,,,
+670,R_4CdgBc8hJLCpGTf,,,,,,,"['Generating_Copyrighted_Content', 'Data_Privacy', 'Security_Issues', 'Break_Standards_and_Regulations', 'Accessibility_Compliance']"
+672,R_54dZF78j4JKCmuk,"['Provide_Inspiration', 'Helps_when_Stuck', 'Offers_New_Perspective_or_Insight', 'Auto_Completion', 'Documentation', 'Writing_Basic_Code_Snippets']","[""Doesn't_Work_For_Legacy"", 'Cost', 'Ethical_Issues', 'Licensing_Problems','Time_Consuming_to_Fix_Code']",,,,,"['Issues_with_Sending_to_Remote', 'Data_Privacy', 'Automated_Data_Analysis', 'Debugging']"
+673,R_1BkOCjfdo9XFh8a,"['Faster_Development', 'Develop_with_Unfamiliar_Libraries']","['Problems_That_Span_Files', 'Lack_of_Wider_Context', ""AI_Doesn't_Understand_Problem""]",,,,,
+675,R_77v6jfzpTXH4S9k,,,"['Alternatives_are_Sufficient', 'No_Usecase_or_Not_Useful']",,,,"['License_Compliance', 'Testing']"
+676,R_4ebuUq7Pqckgt6M,"['Understanding_Errors', 'Generating_Test_Cases', 'Refactoring_Code', 'Writing_Basic_Code_Snippets', 'Auto_Completion', 'Faster_Development']",,,,,,
+681,R_4F4hvB7Xp49OQml,"['Automate_Tasks', 'Writing_Basic_Code_Snippets']",,,,,,
+683,R_7F3TN85ww7B3Ie5,,,,,,,['No_Response']
+684,R_2332KHA38UVsDnz,,,,,,,
+687,R_4Luu0jV4RhqPzwT,"[""Don't_Have_To_Read_Documentation"", 'Performing_Repetitive_Tasks', 'Faster_Development']",,,,,,
+689,R_77srWRRtP327IHr,,,,,,,"['Hacking', 'Product_Liability']"
+691,R_237R6SD7lwZ7IH7,,,"['Low_Trust', 'Not_Mature_Enough']",,,,['Mistrust_Of_Establishment']
+695,R_6EKOP92RylSTUaJ,,,,,,,
+696,R_1yZWV6iCldRvJfP,"['Faster_Development', 'Offers_New_Perspective_or_Insight']","['Not_Autonomous', 'Lack_of_Wider_Context']",,,,,
+698,R_1gKK0LaBq4EO0tb,,"['Off_Topic', 'Unhelpful_or_Broken_Generations']",,,,,['No_Response']
+700,R_54PitCnDdBKB4jN,"['Explain_Concepts', 'Provide_Reference_or_Learning']","['Lack_of_Wider_Context', 'Context_Window', ""Doesn't_Work_For_Legacy""]",,,,,
+711,R_7Jnl9seQnGC4sMt,,,,,,,"['Plagiarism_and_Imitation', 'Other_Media_Generation']"
+712,R_4sNlpWmAWrUT3r3,,,,,,,
+713,R_5bVhQZg5vnn0BRL,['Faster_Development'],"['Generates_Buggy_Code', 'Unhelpful_or_Broken_Generations', 'Context_Window']",,,,,
+715,R_7nFaMRJaw2grptL,['Faster_Development'],"['Subtle_or_Hidden_Errors', 'Hallucinations']",,,,,
+718,R_2ewbZDR3oY65eVP,"['Depends_on_the_Language', 'Faster_Development', 'Quicker_Iterations', 'Auto_Completion', 'Prototyping']","[""Doesn't_Work_for_Complex_Issues""]",,,,,
+720,R_4tzd75a5WIp9txe,,,,,,,['Product_Design']
+722,R_3g11UiJNP5mttGJ,,"['Generates_Poor_Quality_Code', 'Unhelpful_or_Broken_Generations']",,,,,
+725,R_5DYWgR3JaYCLJc2,"['Faster_Development', 'Prototyping']",,,,,,
+726,R_4nI3RmcNgNNzFcG,"[""Don't_Have_To_Read_Documentation"", 'Learn_Best_Practices', 'Provide_Reference_or_Learning']","['Time_Consuming_to_Prompt','Not_Autonomous']",,,,,['Product_Liability']
+730,R_7UyGyXdrtGlHF5L,,,,,,,['All_Tasks']
+732,R_36Zszr6ojdMhRkZ,,,"['Concerns_About_Training', 'Legal_Risks', 'Ethical_Considerations']",,,,
+734,R_3PHtg2tEataL6bP,,"['Privacy', 'Acceptance_of_Use']",,,,,
+738,R_4rSGNaGUydwlEMH,"['Improve_Code_Quality', 'Faster_Development']","['Must_Use_Good_Prompts', ""AI_Doesn't_Understand_Problem""]",,,,,
+744,R_4FPOHw20Kc4gdb5,"['Generating_Test_Cases', 'Writing_SQL_Queries', 'Documentation']",['Domain_Issues'],,,,,"['Testing', 'Information_Leaks']"
+748,R_4Y4aA7YHYtmUkGH,['Faster_Development'],,,,,,
+750,R_33VIpElY2UqJ7ko,,['Must_Use_Good_Prompts'],,,,,
+751,R_4rIt8t9d8e2xrqr,"['Getting_Alternatives', 'Faster_Development', 'Offers_New_Perspective_or_Insight']","['Formatting_Issues', 'Introduces_Code_Smells', 'Unhelpful_or_Broken_Generations']",,,,,
+752,R_4MKdJaXyChhUgeB,"['Debugging', 'Auto_Completion', 'Provide_Reference_or_Learning', 'Can_Explain_or_Summarize_Code', 'Faster_Development']","['Unhelpful_or_Broken_Generations', 'Lack_of_Wider_Context']",,,,,
+754,R_4lhosmY4JJjWYpV,,,,,,,
+755,R_4npfDTNHDK7xIZQ,['Faster_Development'],"['Time_Consuming_to_Fix_Code', 'Outdated_Use_of_Packages', 'Generates_Buggy_Code']",,,,,"['Plagiarism_and_Imitation', 'Refactoring']"
+756,R_20jpoI2lB5GCr29,,,,,,,
+757,R_1QO3YOrJ1fT7LzP,"['Less_Manual_Labor', 'Performing_Repetitive_Tasks', 'Writing_Basic_Code_Snippets']","['Trying_Different_Prompts', ""AI_Doesn't_Understand_Problem"", 'Circular_Conversations']",,,,,
+758,R_1KDYU3JjJjQ5EtW,,,,,,,
+763,R_37poVRi0lh16NBH,"['Easy_to_Use', 'Debugging']",,,,,,
+764,R_4lonctlD34fKLHr,,['Not_Trained_on_Most_Recent_Tech'],,,,,"['Generating_Copyrighted_Content', 'Data_Privacy']"
+769,R_1qk27F54seKvum9,,,,,,,"['Break_Standards_and_Regulations', 'Security_Issues']"
+770,R_5Dsb5Z7MpTF7CtH,,,,,,,
+772,R_4SfElTTXbFGPRqV,,,,,,,"['Impersonation', 'Other_Media_Generation']"

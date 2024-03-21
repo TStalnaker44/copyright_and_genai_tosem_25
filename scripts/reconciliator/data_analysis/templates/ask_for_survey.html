@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+    <head></head>
+    <body>
+
+        <h2>Prepare Questions File</h2>
+
+        <form action="{% url 'reviewSurveyQuestions' %}" method="post">
+            {% csrf_token %}
+
+            <p>Which survey would you like to review?
+            <select id="survey" name="survey">
+                {% for survey in surveys %}
+                    <option value="{{survey}}">{{survey}}</option>
+                {% endfor %}
+            </select></p>
+
+            <div><button type="submit">Submit</button></div>
+            
+        </form>
+
+        <p><a href="..">Back to Home Page</a></p>
+
+    </body>
+</html>

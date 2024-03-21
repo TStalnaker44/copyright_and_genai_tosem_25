@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head></head>
+<body>
+
+    <h2>Apply Reconciliation</h2>
+    <form action="{% url 'run_reconciliation' %}" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+
+        <p>Which survey is this response coding for?</p>
+        <select id="survey" name="survey">
+            {% for survey in surveys %}
+                <option value="{{survey}}">{{survey}}</option>
+            {% endfor %}
+        </select>
+
+        <p>Please upload the reconciliation sheet as a CSV file:</p>
+        <input type="file" id="fileUpload" name="fileUpload"></p>
+
+        <div><button type="submit">Submit</button></div>
+        
+    </form>
+
+    <p><a href="..">Back to Home Page</a></p>
+    
+</body>
+</html>

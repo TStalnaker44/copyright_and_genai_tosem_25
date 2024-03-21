@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head></head>
+<body>
+
+    <h2>Prepare the Reconciliator</h2>
+    <form action="{% url 'run_preparation' %}" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+
+        <p>Which survey should we prepare for you?</p>
+        <select id="survey" name="survey">
+            {% for survey in surveys %}
+                <option value="{{survey}}">{{survey}}</option>
+            {% endfor %}
+        </select>
+
+        <p>How many coders reviewed each response?</p>
+        <input type="number" id="quantity" name="quantity" min="1" value="2">
+
+        <p>If you have updated your glossary, please upload the new XLSX file:</p>
+        <input type="file" id="fileUpload" name="fileUpload"></p>
+
+        <div><button type="submit">Submit</button></div>
+        
+    </form>
+
+    <p><a href="..">Back to Home Page</a></p>
+    
+</body>
+</html>

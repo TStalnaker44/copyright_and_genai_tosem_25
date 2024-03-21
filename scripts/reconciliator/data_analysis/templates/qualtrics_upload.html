@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+    <head></head>
+    <body>
+
+        <h2>Prepare Questions File</h2>
+
+        <p>WARNING: If you already have a questions.json for your survey, it will be overwritten!</p>
+
+        <form action="{% url 'createQuestionsFile' %}" method="post", enctype="multipart/form-data">
+            {% csrf_token %}
+
+            <p>Which survey is the .qsf file for?
+            <select id="survey" name="survey">
+                {% for survey in surveys %}
+                    <option value="{{survey}}">{{survey}}</option>
+                {% endfor %}
+            </select></p>
+
+            <p>Please upload the .qsf file:
+            <input type="file" id="fileUpload" name="fileUpload"></p>
+        
+            <div><button type="submit">Submit</button></div>
+            
+        </form>
+
+        <p><a href="..">Back to Home Page</a></p>
+
+    </body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+    <head></head>
+    <body>
+
+        <h2>Upload Coder File</h2>
+
+        <p>Insert instructions for getting coder file here</p>
+
+        <form action="{% url 'createCoderFile' %}" method="post", enctype="multipart/form-data">
+            {% csrf_token %}
+
+            <p>Which survey are you uploading data for?
+            <select id="survey" name="survey">
+                {% for survey in surveys %}
+                    <option value="{{survey}}">{{survey}}</option>
+                {% endfor %}
+            </select></p>
+
+            <p>Which coder is this for?</p>
+            <input type="number" id="coder" name="coder" min="1" value="1">
+
+            <p>Please upload your .csv file:
+            <input type="file" id="fileUpload" name="fileUpload"></p>
+        
+            <div><button type="submit">Submit</button></div>
+            
+        </form>
+
+        <p><a href="..">Back to Home Page</a></p>
+
+    </body>
+</html>
