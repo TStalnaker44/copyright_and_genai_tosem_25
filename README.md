@@ -13,6 +13,6 @@ In order to fully follow our approved protocol and for the sake of anonymity, in
 NOTE: This means that some scripts may not run out of the box.  They require data files in order to function properly.
 
 ## Exploring Our Data
-As mentioned in our paper, we were not able to cover all of the use cases, benefits, and challenges identified by developers in the survey.  If you wish to explore these and the rest of our data run the script `run_webui.py`.  This tool is capable of carrying out various survey related tasks, but you'll want to focus on the `Data Analysis and Visualization` section.  The first option, `Generate and Explore Plots`, will likely be of greatest interest.
+As mentioned in our paper, we were not able to cover all of the use cases, benefits, and challenges identified by developers in the survey.  If you wish to explore these and the rest of our data run the script `scripts/run_webui.py`.  This tool is capable of carrying out various survey related tasks, but you'll want to focus on the `Data Analysis and Visualization` section.  The first option, `Generate and Explore Plots`, will likely be of greatest interest.
 
 Before running the script you will need to install `Django`.
