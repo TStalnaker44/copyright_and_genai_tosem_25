@@ -2,6 +2,7 @@
 
 ## What is Included
 - `scripts/`: Python scripts used for data cleaning, open-coding, reconciliation, and data analysis
+- `plots/`: A folder containing a PNG for each non-optional survey question (those marked "_coded" represent manual analysis of the "other" option)
 - `glossary.json`: Glossary of codes and definitions (per question) resulting from open-coding
 - `survey_questions.pdf`: An anonymized PDF of the full survey text (including questions), as seen by participants, produced by Qualtrics
 - `questions.json`: A JSON of questions, their associated IDs, and other relevant information
