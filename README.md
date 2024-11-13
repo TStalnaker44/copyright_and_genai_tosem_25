@@ -6,7 +6,7 @@
   - Those marked "_coded" have the "other" option replaced through coded manual analysis.  
 - `glossary.json`: Glossary of codes and definitions (per question) resulting from open-coding.
 - `interview_questions.pdf`: A PDF containing the standard questions asked to interview participants.
-- `interview_selection_criteria`: A PDF containing criteria and targets used to select interview participants.  We aimed to have participants with a variety of backgrounds.  NOTE: This document only shows the targets, not the actual number of participants fitting into each category.
+- `interview_selection_criteria`: A PDF containing criteria and targets used to select interview participants.  We aimed to have participants with a variety of backgrounds.  NOTE: This document only shows the targets, not the actual number of participants fitting into each category. Due to the availability of those we invited for follow-up interviews, we exceeded some of these targets and did not fully meet others.
 - `survey_questions.pdf`: An anonymized PDF of the full survey text (including questions), as seen by participants, produced by Qualtrics.
 - `questions.json`: A JSON of questions, their associated IDs, and other relevant information.
 - `tags.json`: A JSON containing the tags / codes used to located repositories and the repositories that were mined for participants.
