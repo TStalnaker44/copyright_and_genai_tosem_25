@@ -1,7 +1,7 @@
 {
     "C5": {
-        "Debugging": "AI code generation tools help with debugging",
-        "Documentation": "AI code generation tools help with documentation tasks",
+        "Improved_Debugging": "AI code generation tools help with debugging",
+        "Improved_Documentation": "AI code generation tools help with documentation tasks",
         "Provide_Inspiration": "Code generation tools can provide inspiration to developers and give them solution ideas",
         "Provide_Reference_or_Learning": "Code generation tools can act as a reference point for developers, by providing them with easy access to additional information about the codebase or library",
         "Writing_Basic_Code_Snippets": "Code generation models are good at generating code snippets that are basic, boilerplate, or used frequently",
@@ -25,7 +25,7 @@
         "Rubber_Duck_Debugging": "AI tools can be used as next generation rubber duck debuggers",
         "Library_Selection": "Code generation tools can help developers find and use libraries for fields which they may not be familiar with",
         "Detection_of_Edge_Cases": "Code generation tools are helpful in detecting edge cases",
-        "Testing": "Code generation models help with testing in general",
+        "Improved_Testing": "Code generation models help with testing in general",
         "Assistance_with_Typing": "Code generation models provide assistance with types for typed languages",
         "Improve_Code_Quality": "Tools help to improve the quality of code (e.g. making solutions more efficient or following standard coding conventions, etc.)",
         "Pair_Programming": "AI code generation tools act as a pair programmer, catching issues and offering a different perspective",
